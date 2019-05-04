@@ -43,11 +43,11 @@ module.exports = {
           android: true,
           appleIcon: true,
           appleStartup: true,
-          coast: false,
+          coast: true,
           favicons: true,
           firefox: true,
-          yandex: false,
-          windows: false
+          yandex: true,
+          windows: true
         }
       }
     }
