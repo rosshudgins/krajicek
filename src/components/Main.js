@@ -40,7 +40,7 @@ class Main extends React.Component {
 
         <article id="contact" className={`${this.props.article === 'contact' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Contact</h2>
-          <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
+          <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
             <div className="field half first">
               <label htmlFor="name">Name</label>
               <input type="text" name="name" id="name" />
