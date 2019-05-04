@@ -57,7 +57,7 @@ class Main extends React.Component {
               <li><input type="submit" value="Send Message" className="special" /></li>
               <li><input type="reset" value="Reset" /></li>
             </ul>
-            <div></div>
+            <div data-netlify-recaptcha="true"></div>
           </form>
           <ul className="icons">
             <li><a href="https://www.facebook.com/John-Krajicek-Borderline-Social-Club-195045807745923/" className="icon fa-facebook"><span className="label">Facebook</span></a></li>
