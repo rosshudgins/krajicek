@@ -1,6 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
+import Icons from './Icons'
+
 import pic01 from '../images/pic01.jpg'
 import pic02 from '../images/pic02.jpg'
 import pic03 from '../images/pic03.jpg'
@@ -42,10 +44,7 @@ class Main extends React.Component {
           <h2 className="major">Contact</h2>
           <p>Call me at a number: </p>
           <p>Email me at: </p>
-          <ul className="icons">
-            <li><a href="https://www.facebook.com/John-Krajicek-Borderline-Social-Club-195045807745923/" className="icon fa-facebook"><span className="label">Facebook</span></a></li>
-            <li><a href="#" className="icon fa-instagram"><span className="label">Instagram</span></a></li>
-          </ul>
+          <Icons/>
           {close}
         </article>
 
