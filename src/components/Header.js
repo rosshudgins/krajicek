@@ -1,10 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-const ButtonStyleOverride = {
-  boxShadow: "none",
-}
-
 const Header = (props) => (
     <header id="header" style={props.timeout ? {display: 'none'} : {}}>
         <div className="logo">
@@ -18,10 +14,10 @@ const Header = (props) => (
         </div>
         <nav>
             <ul>
-                <li><button style={ButtonStyleOverride} onClick={() => {props.onOpenArticle('about')}}>About</button></li>
-                <li><button style={ButtonStyleOverride} onClick={() => {props.onOpenArticle('music')}}>Music</button></li>
-                <li><button style={ButtonStyleOverride} onClick={() => {props.onOpenArticle('painting')}}>Painting</button></li>
-                <li><button style={ButtonStyleOverride} onClick={() => {props.onOpenArticle('contact')}}>Contact</button></li>
+                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('about')}}>About</a></li>
+                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('music')}}>Music</a></li>
+                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('painting')}}>Painting</a></li>
+                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('contact')}}>Contact</a></li>
             </ul>
         </nav>
     </header>
