@@ -6,6 +6,7 @@ import Icons from './Icons'
 import pic01 from '../images/pic01.jpg'
 import pic02 from '../images/pic02.jpg'
 import pic03 from '../images/pic03.jpg'
+import john1 from '../images/john1.jpg'
 
 class Main extends React.Component {
   render() {
@@ -18,14 +19,14 @@ class Main extends React.Component {
         <article id="about" className={`${this.props.article === 'about' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">About John</h2>
           <span className="image main"><img src={pic01} alt="" /></span>
-          <p>Somf somf somf, somf somf somf somf! By the way, check out my <a href="#work">awesome work</a>.</p>
-          <p>Art and music and beer enthusiast.</p>
+          <p>Here is some in progress information about John Krajicek. Hopefully he'll give me more text to add soon :P</p>
+          <p></p>
           {close}
         </article>
 
         <article id="music" className={`${this.props.article === 'music' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Music</h2>
-          <span className="image main"><img src={pic03} alt="" /></span>
+          <span className="image main"><img src={john1} alt="" /></span>
           <p>Solo stuff</p>
           <p>Leavenworth</p>
           <p>Borderline Social Club</p>
