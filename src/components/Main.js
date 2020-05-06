@@ -7,6 +7,8 @@ import pic01 from '../images/pic01.jpg'
 import pic02 from '../images/pic02.jpg'
 import pic03 from '../images/pic03.jpg'
 import john1 from '../images/john1.jpg'
+import john2 from '../images/john2.jpg'
+import painting1 from '../images/painting1.jpg'
 
 class Main extends React.Component {
   render() {
@@ -18,8 +20,8 @@ class Main extends React.Component {
 
         <article id="about" className={`${this.props.article === 'about' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">About John</h2>
-          <span className="image main"><img src={pic01} alt="" /></span>
-          <p>Here is some in progress information about John Krajicek. Hopefully he'll give me more text to add soon :P</p>
+          <span className="image main"><img src={john2} alt="" /></span>
+          <p>John Krajicek is a singer songwriter, artist, and performer.</p>
           <p></p>
           {close}
         </article>
@@ -27,24 +29,24 @@ class Main extends React.Component {
         <article id="music" className={`${this.props.article === 'music' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Music</h2>
           <span className="image main"><img src={john1} alt="" /></span>
-          <p>Solo stuff</p>
-          <p>Leavenworth</p>
           <p>Borderline Social Club</p>
+          <p>Leavenworth</p>
+          <p>Solo</p>
           {close}
         </article>
 
         <article id="painting" className={`${this.props.article === 'painting' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
-          <h2 className="major">Painting</h2>
-          <span className="image main"><img src={pic02} alt="" /></span>
-          <p>John enjoys painting.</p>
-          <p>More info about painting - features, etc.</p>
+          <h2 className="major">Visual Artist</h2>
+          <span className="image main"><img src={painting1} alt="" /></span>
+          <p>John is an abstract expressionist painter. Current gallery show at The Kyle House in Bryan, TX</p>
+          <p>Read an interview with John about his art <a href="http://oldartguy.com/John_Krajicek_%28Artist%29.html">here.</a></p>
           {close}
         </article>
 
         <article id="contact" className={`${this.props.article === 'contact' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Contact</h2>
-          <p>Call me at a number: </p>
-          <p>Email me at: </p>
+          <p>Call me: 979-777-4268</p>
+          <p>Email me at: <a href="mailto:jkrajicek1@gmail.com">jkrajicek1@gmail.com</a></p>
           <Icons/>
           {close}
         </article>
