@@ -21,24 +21,69 @@ class Main extends React.Component {
         <article id="about" className={`${this.props.article === 'about' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">About John</h2>
           <span className="image main"><img src={john2} alt="" /></span>
-          <p>John Krajicek is a singer songwriter, artist, and performer.</p>
-          <p></p>
+          <p>John is a singer songwriter, visual artist, and performer.</p>
+
+          <p>One thing the COVID pandemic has shown us all, is how much we
+          cherish and miss live music. John loves to play live, loves interacting with
+          audiences, and he is thrilled to be booking gigs again.</p>
+
+          <p>We all stand on the shoulders of giants, and like most singer-songwriter,
+          John is heavily influenced by a variety of artists, beginning in his youth
+          with The Beatles and Bob Dylan. Through the years, his influences have
+          also included bands and songwriters such as REM, Uncle Tupelo, Leonard
+          Cohen, Wilco, Joni Mitchell, Johnny Cash, and Centro-matic.</p>
+
+          <p>John’s motto is “always be creating,” and he is constantly (maybe
+          obsessively) writing new songs. He knows that melody is king in this
+          process, as that’s what can hook the listener. But John is equally
+          fascinated by language, by the way we can process emotions, memories,
+          and experiences into words. A lot of what he writes involves family and
+          friends. Actual, real experiences, both profound moments and the more
+          mundane moments that somehow become strong memories.</p>
           {close}
         </article>
 
         <article id="music" className={`${this.props.article === 'music' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
-          <h2 className="major">Music</h2>
+          <h1 className="major">Music</h1>
           <span className="image main"><img src={john1} alt="" /></span>
-          <p>Borderline Social Club</p>
-          <p>Leavenworth</p>
-          <p>Solo</p>
+          <h2>Solo</h2>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/k9va01B2n78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/P6mxW8g42Qs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/GzozoKx9gJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+          <h2>Borderline Social Club</h2>
+          {/* <p><a href="https://open.spotify.com/album/0uQLrM8qTw2u6tMtjlOD2J?si=dBXALkBUS9SJVfnahLaIMA">Blue Midwestern Dream - Borderline Social Club</a></p> */}
+          <iframe src="https://open.spotify.com/embed/album/0uQLrM8qTw2u6tMtjlOD2J" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/pO6tmks_IXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/D5Q7xF-Za7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+          <h2>Leavenworth</h2>
+          {/* <p><a href="https://open.spotify.com/artist/3g4Szdp2GxPPBEdYZbrrgx?si=rwIwd2SyRnKCuj9bexYlLw">Leavenworth</a> on Spotify</p> */}
+          <iframe src="https://open.spotify.com/embed/artist/3g4Szdp2GxPPBEdYZbrrgx" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/dNymj2SmrW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/iO_TCyQhVxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+          {close}
+        </article>
+
+        <article id="live" className={`${this.props.article === 'live' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
+          <h2 className="major">Live Shows</h2>
+          <span className="image main"><img src={john1} alt="" /></span>
+          <p>UPCOMING SHOWS:</p>
+          <p>Downtown Bryan Street & Art Fair – Saturday, April 10, 12-12:45</p>
+          <p>Lone Pint Brewery, Magnolia – Saturday, April 24, 12:30-3:30</p>
+          <p>PREVIOUS SHOWS:</p>
+          <p>Under construction</p>
           {close}
         </article>
 
         <article id="painting" className={`${this.props.article === 'painting' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Visual Artist</h2>
           <span className="image main"><img src={painting1} alt="" /></span>
-          <p>John is an abstract expressionist painter. Current gallery show at The Kyle House in Bryan, TX</p>
+          <p>John is an abstract expressionist painter.</p>
           <p>Read an interview with John about his art <a href="http://oldartguy.com/John_Krajicek_%28Artist%29.html">here.</a></p>
           {close}
         </article>
