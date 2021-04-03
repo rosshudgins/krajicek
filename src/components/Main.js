@@ -10,12 +10,12 @@ import john1 from '../images/john1.jpg'
 import john2 from '../images/john2.jpg'
 import painting1 from '../images/painting1.jpg'
 import johnpromo from '../images/johnpromo.jpg'
-import handfulOfRain from '../images/Handful of Rain.jpg'
-import pouringRain from '../images/inside the pouring rain.jpg'
-import kindOfBlue2 from '../images/Kind of Blue 2.jpg'
+import handfulOfRain from '../images/HandfulofRain.jpg'
+import pouringRain from '../images/insidethepouringrain.jpg'
+import kindOfBlue2 from '../images/KindofBlue2.jpg'
 import semaphoric from '../images/semaphoric.jpg'
-import slashOfBlue from '../images/Slash of Blue.jpg'
-import springRain from '../images/Spring Rain.jpg'
+import slashOfBlue from '../images/SlashofBlue.jpg'
+import springRain from '../images/SpringRain.jpg'
 
 class Main extends React.Component {
   render() {
