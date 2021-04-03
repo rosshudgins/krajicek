@@ -27,7 +27,7 @@ class Main extends React.Component {
           cherish and miss live music. John loves to play live, loves interacting with
           audiences, and he is thrilled to be booking gigs again.</p>
 
-          <p>We all stand on the shoulders of giants, and like most singer-songwriter,
+          <p>We all stand on the shoulders of giants, and like most singer-songwriters,
           John is heavily influenced by a variety of artists, beginning in his youth
           with The Beatles and Bob Dylan. Through the years, his influences have
           also included bands and songwriters such as REM, Uncle Tupelo, Leonard
@@ -46,17 +46,18 @@ class Main extends React.Component {
         <article id="music" className={`${this.props.article === 'music' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h1 className="major">Music</h1>
           <span className="image main"><img src={john1} alt="" /></span>
-          <h2>Solo</h2>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/k9va01B2n78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/P6mxW8g42Qs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/GzozoKx9gJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
           <h2>Borderline Social Club</h2>
           {/* <p><a href="https://open.spotify.com/album/0uQLrM8qTw2u6tMtjlOD2J?si=dBXALkBUS9SJVfnahLaIMA">Blue Midwestern Dream - Borderline Social Club</a></p> */}
           <iframe src="https://open.spotify.com/embed/album/0uQLrM8qTw2u6tMtjlOD2J" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
           <iframe width="560" height="315" src="https://www.youtube.com/embed/pO6tmks_IXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <iframe width="560" height="315" src="https://www.youtube.com/embed/D5Q7xF-Za7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+          <h2>Solo</h2>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/k9va01B2n78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/P6mxW8g42Qs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/GzozoKx9gJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
           <h2>Leavenworth</h2>
           {/* <p><a href="https://open.spotify.com/artist/3g4Szdp2GxPPBEdYZbrrgx?si=rwIwd2SyRnKCuj9bexYlLw">Leavenworth</a> on Spotify</p> */}
@@ -75,8 +76,7 @@ class Main extends React.Component {
           <p>UPCOMING SHOWS:</p>
           <p>Downtown Bryan Street & Art Fair – Saturday, April 10, 12-12:45</p>
           <p>Lone Pint Brewery, Magnolia – Saturday, April 24, 12:30-3:30</p>
-          <p>PREVIOUS SHOWS:</p>
-          <p>Under construction</p>
+          <p>The Post at River East, Fort Worth - song swap with Jacob Furr - Thursday, May 13, 6:00-9:00</p>
           {close}
         </article>
 
