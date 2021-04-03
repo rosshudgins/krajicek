@@ -9,6 +9,13 @@ import pic03 from '../images/pic03.jpg'
 import john1 from '../images/john1.jpg'
 import john2 from '../images/john2.jpg'
 import painting1 from '../images/painting1.jpg'
+import johnpromo from '../images/johnpromo.jpg'
+import handfulOfRain from '../images/Handful of Rain.jpg'
+import pouringRain from '../images/inside the pouring rain.jpg'
+import kindOfBlue2 from '../images/Kind of Blue #2.jpg'
+import semaphoric from '../images/semaphoric.jpg'
+import slashOfBlue from '../images/Slash of Blue.jpg'
+import springRain from '../images/Spring Rain.jpg'
 
 class Main extends React.Component {
   render() {
@@ -45,7 +52,7 @@ class Main extends React.Component {
 
         <article id="music" className={`${this.props.article === 'music' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h1 className="major">Music</h1>
-          <span className="image main"><img src={john1} alt="" /></span>
+          <span className="image main"><img src={johnpromo} alt="" /></span>
           <h2>Borderline Social Club</h2>
           {/* <p><a href="https://open.spotify.com/album/0uQLrM8qTw2u6tMtjlOD2J?si=dBXALkBUS9SJVfnahLaIMA">Blue Midwestern Dream - Borderline Social Club</a></p> */}
           <iframe src="https://open.spotify.com/embed/album/0uQLrM8qTw2u6tMtjlOD2J" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
@@ -74,17 +81,23 @@ class Main extends React.Component {
           <h2 className="major">Live Shows</h2>
           <span className="image main"><img src={john1} alt="" /></span>
           <p>UPCOMING SHOWS:</p>
-          <p>Downtown Bryan Street & Art Fair – Saturday, April 10, 12-12:45</p>
-          <p>Lone Pint Brewery, Magnolia – Saturday, April 24, 12:30-3:30</p>
-          <p>The Post at River East, Fort Worth - song swap with Jacob Furr - Thursday, May 13, 6:00-9:00</p>
+          <p><a href="https://www.downtownbryan.com/downtown-street-art-fair">Downtown Bryan Street & Art Fair</a> – Saturday, April 10, 12-12:45</p>
+          <p><a href="https://lonepint.com/">Lone Pint Brewery, Magnolia</a> – Saturday, April 24, 12:30-3:30</p>
+          <p><a href="http://thepostatrivereast.com/">The Post at River East, Fort Worth</a> - song swap with Jacob Furr - Thursday, May 13, 6:00-9:00</p>
           {close}
         </article>
 
         <article id="painting" className={`${this.props.article === 'painting' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Visual Artist</h2>
-          <span className="image main"><img src={painting1} alt="" /></span>
           <p>John is an abstract expressionist painter.</p>
           <p>Read an interview with John about his art <a href="http://oldartguy.com/John_Krajicek_%28Artist%29.html">here.</a></p>
+          <span className="image main"><img src={painting1} alt="" /></span>
+          <span className="image main"><img src={handfulOfRain} alt="" /></span>
+          <span className="image main"><img src={kindOfBlue2} alt="" /></span>
+          <span className="image main"><img src={semaphoric} alt="" /></span>
+          <span className="image main"><img src={slashOfBlue} alt="" /></span>
+          <span className="image main"><img src={springRain} alt="" /></span>
+          <span className="image main"><img src={pouringRain} alt="" /></span>
           {close}
         </article>
 
