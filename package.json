@@ -5,6 +5,7 @@
   "author": "Ross Hudgins",
   "dependencies": {
     "gatsby": "^3.2.1",
+    "gatsby-plugin-google-gtag": "^3.2.0",
     "gatsby-plugin-manifest": "^2.0.24",
     "gatsby-plugin-offline": "^2.0.25",
     "gatsby-plugin-react-helmet": "^3.0.10",
