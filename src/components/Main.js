@@ -22,6 +22,22 @@ class Main extends React.Component {
 
     let close = <div className="close" onClick={() => {this.props.onCloseArticle()}}></div>
 
+    // TODO: dynamically determine upcoming vs past shows
+    // <p><a href="https://www.downtownbryan.com/downtown-street-art-fair">Downtown Bryan Street & Art Fair</a> – Saturday, April 10, 12-12:45</p>
+    // <p><a href="https://lonepint.com/">Lone Pint Brewery, Magnolia</a> – Saturday, April 24, 12:30-3:30</p>
+    // <p><a href="http://thepostatrivereast.com/">The Post at River East, Fort Worth</a> - song swap with Jacob Furr - Thursday, May 13, 6:00-9:00</p>
+    // <p><a href="https://cherrywoodcoffeehouse.com/">Cherrywood Coffeehouse, Austin</a> - song swap with Kevin Peroni - Friday, May 28, 7:30-9:30</p>
+
+    // const shows = [
+    //   {
+    //     venue: '',
+    //     venueLink: '',
+    //     date: '',
+    //     timeFrame: '',
+    //     text: ''
+    //   }
+    // ]
+
     return (
       <div ref={this.props.setWrapperRef} id="main" style={this.props.timeout ? {display: 'flex'} : {display: 'none'}}>
 
@@ -81,10 +97,11 @@ class Main extends React.Component {
           <h2 className="major">Live Shows</h2>
           <span className="image main"><img src={john1} alt="" /></span>
           <p>UPCOMING SHOWS:</p>
-          <p><a href="https://www.downtownbryan.com/downtown-street-art-fair">Downtown Bryan Street & Art Fair</a> – Saturday, April 10, 12-12:45</p>
           <p><a href="https://lonepint.com/">Lone Pint Brewery, Magnolia</a> – Saturday, April 24, 12:30-3:30</p>
           <p><a href="http://thepostatrivereast.com/">The Post at River East, Fort Worth</a> - song swap with Jacob Furr - Thursday, May 13, 6:00-9:00</p>
           <p><a href="https://cherrywoodcoffeehouse.com/">Cherrywood Coffeehouse, Austin</a> - song swap with Kevin Peroni - Friday, May 28, 7:30-9:30</p>
+          <p>PAST SHOWS:</p>
+          <p><a href="https://www.downtownbryan.com/downtown-street-art-fair">Downtown Bryan Street & Art Fair</a> – Saturday, April 10, 12-12:45</p>
           {close}
         </article>
 
