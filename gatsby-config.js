@@ -21,41 +21,9 @@ module.exports = {
     'gatsby-plugin-sass',
     'gatsby-plugin-offline',
     {
-      resolve: `gatsby-plugin-favicon`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        logo: "./src/images/j45.png",
-  
-        // WebApp Manifest Configuration
-        appName: null, // Inferred with your package.json
-        appDescription: null,
-        developerName: null,
-        developerURL: null,
-        dir: 'auto',
-        lang: 'en-US',
-        background: '#fff',
-        theme_color: '#fff',
-        display: 'standalone',
-        orientation: 'any',
-        start_url: '/?homescreen=1',
-        version: '1.0',
-  
-        icons: {
-          android: true,
-          appleIcon: true,
-          appleStartup: true,
-          coast: true,
-          favicons: true,
-          firefox: true,
-          yandex: true,
-          windows: true
-        }
-      }
-    },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "UA-140526802-1",
-        head: true,
+        trackingIds: ["UA-140526802-1"],
       },
     }
   ],
