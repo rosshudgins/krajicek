@@ -97,7 +97,13 @@ class Main extends React.Component {
           <h2 className="major">Live Shows</h2>
           <span className="image main"><img src={john1} alt="" /></span>
           <p>UPCOMING SHOWS:</p>
-          <p>TBD</p>
+          <p><a href="https://www.savagebrewlab.com">Savage Brew Lab, Bryan</a> – Friday, 6/25</p>
+          <p><a href="https://lonepint.com/">Lone Pint Brewery, Magnolia</a> – Saturday, July 31</p>
+          <p><a href="https://grandstaffordtheater.com/">The Grand Stafford, Bryan (w/ Leavenworth)</a> – Saturday, August 21</p>
+          <p><a href="https://lonepint.com/">Lone Pint Brewery, Magnolia (w/ Jye Shafer)</a> – Saturday, August 28</p>
+          <p><a href="https://lonepint.com/">Lone Pint Brewery, Magnolia (w/ Jye Shafer)</a> – Saturday, September 18</p>
+          <p><a href="">Cavalry Court, College Station (w/ Leavenworth)</a> – Saturday, September 25</p>
+          <p><a href="">Cavalry Court, College Station (w/ Leavenworth)</a> – Friday, November 19</p>
           <p>PAST SHOWS:</p>
           <p><a href="https://www.downtownbryan.com/downtown-street-art-fair">Downtown Bryan Street & Art Fair</a> – Saturday, April 10, 12-12:45</p>
           <p><a href="https://lonepint.com/">Lone Pint Brewery, Magnolia</a> – Saturday, April 24, 12:30-3:30</p>
