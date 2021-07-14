@@ -100,7 +100,7 @@ class Main extends React.Component {
           <h2 className="major">Live Shows</h2>
           <span className="image main"><img src={john1} alt="" /></span>
           <p>UPCOMING SHOWS:</p>
-          <p><a href="https://lonepint.com/">Lone Pint Brewery, Magnolia</a> – Saturday, July 31</p>
+          <p><a href="https://lonepint.com/">Lone Pint Brewery, Magnolia (w/ Leavenworth)</a> – Saturday, July 31</p>
           <p><a href="https://grandstaffordtheater.com/">The Grand Stafford, Bryan (w/ Leavenworth)</a> – Saturday, August 21</p>
           <p><a href="https://lonepint.com/">Lone Pint Brewery, Magnolia (w/ Jye Shafer)</a> – Saturday, August 28</p>
           <p><a href="https://lonepint.com/">Lone Pint Brewery, Magnolia (w/ Jye Shafer)</a> – Saturday, September 18</p>
