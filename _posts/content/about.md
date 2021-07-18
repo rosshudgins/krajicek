@@ -3,7 +3,7 @@ layout: content
 title: About
 date: 2021-07-16T00:54:50.580Z
 ---
-![](/images/uploads/johnshades.jpg)
+![john](../../images/uploads/johnshades.jpg)
 
 John is a singer-songwriter, visual artist, and performer.
 

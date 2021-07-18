@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 
 import Icons from './Icons'
+import About from './About'
 
 import pic01 from '../images/pic01.jpg'
 import pic02 from '../images/pic02.jpg'
@@ -43,27 +44,7 @@ class Main extends React.Component {
       <div ref={this.props.setWrapperRef} id="main" style={this.props.timeout ? {display: 'flex'} : {display: 'none'}}>
 
         <article id="about" className={`${this.props.article === 'about' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
-          <h2 className="major">About John</h2>
-          <span className="image main"><img src={johnshades} alt="" /></span>
-          <p>John is a singer songwriter, visual artist, and performer.</p>
-
-          <p>One thing the COVID pandemic has shown us all is how much we
-          cherish and miss live music. John loves to play live, loves interacting with
-          audiences, and he is thrilled to be booking gigs again.</p>
-
-          <p>We all stand on the shoulders of giants, and like most singer-songwriters,
-          John is heavily influenced by a variety of artists, beginning in his youth
-          with The Beatles and Bob Dylan. Through the years, his influences have also
-           included bands and songwriters such as REM, Tom Petty, Uncle Tupelo, Leonard 
-           Cohen, Wilco, Joni Mitchell, Johnny Cash, Will Johnson, and Centro-matic.</p>
-
-          <p>John’s motto is “always be creating,” and he is constantly (maybe
-          obsessively) writing new songs. He knows that melody is king in this process, 
-          as that’s what can hook the listener. But John is equally fascinated by language, 
-          by the way we can process emotions, memories, and experiences into words. A lot 
-          of what he writes involves family and
-          friends. Actual, real experiences, both profound moments and the more
-          mundane moments that somehow become strong memories.</p>
+          <About/>
           {close}
         </article>
 
