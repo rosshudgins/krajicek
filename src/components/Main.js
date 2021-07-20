@@ -43,22 +43,7 @@ class Main extends React.Component {
         </article>
 
         <article id="live" className={`${this.props.article === 'live' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
-          <h2 className="major">Live Shows</h2>
-          <span className="image main"><img src={john1} alt="" /></span>
-          <p>UPCOMING SHOWS:</p>
-          <p><a href="https://lonepint.com/">Lone Pint Brewery, Magnolia (w/ Leavenworth)</a> – Saturday, July 31</p>
-          <p><a href="https://grandstaffordtheater.com/">The Grand Stafford, Bryan (w/ Leavenworth)</a> – Saturday, August 21</p>
-          <p><a href="https://lonepint.com/">Lone Pint Brewery, Magnolia (w/ Jye Shafer)</a> – Saturday, August 28</p>
-          <p><a href="https://lonepint.com/">Lone Pint Brewery, Magnolia (w/ Jye Shafer)</a> – Saturday, September 18</p>
-          <p><a href="https://www.cavalrycourt.com/live-music-events.aspx">Cavalry Court, College Station (w/ Leavenworth)</a> – Saturday, September 25</p>
-          <p><a href="https://www.cavalrycourt.com/live-music-events.aspx">Cavalry Court, College Station (w/ Leavenworth)</a> – Friday, November 19</p>
-          <p>PAST SHOWS:</p>
-          <p><a href="https://www.facebook.com/Bensons-Tavern-Beer-Garden-71527323736/">Benson's Tavern &amp; Beer Garden, Salida, CO</a> – Friday, July 6</p>
-          <p><a href="https://www.savagebrewlab.com">Savage Brew Lab, Bryan</a> – Friday, June 25</p>
-          <p><a href="https://cherrywoodcoffeehouse.com/">Cherrywood Coffeehouse, Austin</a> - song swap with Kevin Peroni - Friday, May 28, 7:30-9:30</p>
-          <p><a href="http://thepostatrivereast.com/">The Post at River East, Fort Worth</a> - song swap with Jacob Furr - Thursday, May 13, 6:00-9:00</p>
-          <p><a href="https://lonepint.com/">Lone Pint Brewery, Magnolia</a> – Saturday, April 24, 12:30-3:30</p>
-          <p><a href="https://www.downtownbryan.com/downtown-street-art-fair">Downtown Bryan Street & Art Fair</a> – Saturday, April 10, 12-12:45</p>
+          <Live/>
           {close}
         </article>
 
