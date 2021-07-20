@@ -3,6 +3,10 @@ import PropTypes from 'prop-types'
 
 import Icons from './Icons'
 import About from './About'
+import Music from './Music'
+import Live from './Live'
+import Painting from './Painting'
+import Contact from './Contact'
 
 import pic01 from '../images/pic01.jpg'
 import pic02 from '../images/pic02.jpg'
@@ -24,22 +28,6 @@ class Main extends React.Component {
 
     let close = <div className="close" onClick={() => {this.props.onCloseArticle()}}></div>
 
-    // TODO: dynamically determine upcoming vs past shows
-    // <p><a href="https://www.downtownbryan.com/downtown-street-art-fair">Downtown Bryan Street & Art Fair</a> – Saturday, April 10, 12-12:45</p>
-    // <p><a href="https://lonepint.com/">Lone Pint Brewery, Magnolia</a> – Saturday, April 24, 12:30-3:30</p>
-    // <p><a href="http://thepostatrivereast.com/">The Post at River East, Fort Worth</a> - song swap with Jacob Furr - Thursday, May 13, 6:00-9:00</p>
-    // <p><a href="https://cherrywoodcoffeehouse.com/">Cherrywood Coffeehouse, Austin</a> - song swap with Kevin Peroni - Friday, May 28, 7:30-9:30</p>
-
-    // const shows = [
-    //   {
-    //     venue: '',
-    //     venueLink: '',
-    //     date: '',
-    //     timeFrame: '',
-    //     text: ''
-    //   }
-    // ]
-
     return (
       <div ref={this.props.setWrapperRef} id="main" style={this.props.timeout ? {display: 'flex'} : {display: 'none'}}>
 
@@ -49,31 +37,8 @@ class Main extends React.Component {
         </article>
 
         <article id="music" className={`${this.props.article === 'music' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
-          <h1 className="major">Music</h1>
-          <span className="image main"><img src={johnpromo} alt="" /></span>
-          <h2>Borderline Social Club</h2>
-          {/* <p><a href="https://open.spotify.com/album/0uQLrM8qTw2u6tMtjlOD2J?si=dBXALkBUS9SJVfnahLaIMA">Blue Midwestern Dream - Borderline Social Club</a></p> */}
-          <iframe src="https://open.spotify.com/embed/album/0uQLrM8qTw2u6tMtjlOD2J" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/3EMmiy8psMA" title="Buckets of Rain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          {/* <iframe width="560" height="315" src="https://www.youtube.com/embed/pO6tmks_IXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> */}
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/D5Q7xF-Za7I" title="Wandering Masquerade Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-          <h2>Solo</h2>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/mhJLXZNXUb0" title="Ones About You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          {/* <iframe width="560" height="315" src="https://www.youtube.com/embed/k9va01B2n78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> */}
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/P6mxW8g42Qs" title="Milwaukee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          {/* <iframe width="560" height="315" src="https://www.youtube.com/embed/GzozoKx9gJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> */}
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/q1aNP8sYXpE" title="All in Our Hands" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-          <h2>Leavenworth</h2>
-          {/* <p><a href="https://open.spotify.com/artist/3g4Szdp2GxPPBEdYZbrrgx?si=rwIwd2SyRnKCuj9bexYlLw">Leavenworth</a> on Spotify</p> */}
-          <iframe src="https://open.spotify.com/embed/artist/3g4Szdp2GxPPBEdYZbrrgx" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/dNymj2SmrW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/iO_TCyQhVxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+          {/* <h1 className="major">Music</h1> */}
+        <Music/>
           {close}
         </article>
 
