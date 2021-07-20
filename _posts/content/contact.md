@@ -3,4 +3,7 @@ layout: content
 title: Contact
 date: 2021-07-16T01:08:09.044Z
 ---
-contact John
+## Contact
+Call me: 979-777-4268
+
+Email me at: [mailto:jkrajicek1@gmail.com](jkrajicek1@gmail.com)

@@ -8,21 +8,6 @@ import Live from './Live'
 import Painting from './Painting'
 import Contact from './Contact'
 
-import pic01 from '../images/pic01.jpg'
-import pic02 from '../images/pic02.jpg'
-import pic03 from '../images/pic03.jpg'
-import john1 from '../images/john1.jpg'
-import john2 from '../images/john2.jpg'
-import painting1 from '../images/painting1.jpg'
-import johnpromo from '../images/johnpromo.jpg'
-import handfulOfRain from '../images/HandfulofRain.jpg'
-import pouringRain from '../images/insidethepouringrain.jpg'
-import kindOfBlue2 from '../images/KindofBlue2.jpg'
-import semaphoric from '../images/semaphoric.jpg'
-import slashOfBlue from '../images/SlashofBlue.jpg'
-import springRain from '../images/SpringRain.jpg'
-import johnshades from '../images/johnshades.jpg'
-
 class Main extends React.Component {
   render() {
 
@@ -37,8 +22,7 @@ class Main extends React.Component {
         </article>
 
         <article id="music" className={`${this.props.article === 'music' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
-          {/* <h1 className="major">Music</h1> */}
-        <Music/>
+          <Music/>
           {close}
         </article>
 
@@ -48,23 +32,12 @@ class Main extends React.Component {
         </article>
 
         <article id="painting" className={`${this.props.article === 'painting' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
-          <h2 className="major">Visual Artist</h2>
-          <p>John is an abstract expressionist painter.</p>
-          <p>Read an interview with John about his art <a href="http://oldartguy.com/John_Krajicek_%28Artist%29.html">here.</a></p>
-          <span className="image main"><img src={painting1} alt="" /></span>
-          <span className="image main"><img src={handfulOfRain} alt="" /></span>
-          <span className="image main"><img src={kindOfBlue2} alt="" /></span>
-          <span className="image main"><img src={semaphoric} alt="" /></span>
-          <span className="image main"><img src={slashOfBlue} alt="" /></span>
-          <span className="image main"><img src={springRain} alt="" /></span>
-          <span className="image main"><img src={pouringRain} alt="" /></span>
+          <Painting/>
           {close}
         </article>
 
         <article id="contact" className={`${this.props.article === 'contact' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
-          <h2 className="major">Contact</h2>
-          <p>Call me: 979-777-4268</p>
-          <p>Email me at: <a href="mailto:jkrajicek1@gmail.com">jkrajicek1@gmail.com</a></p>
+          <Contact/>
           <Icons/>
           {close}
         </article>
