@@ -9,21 +9,17 @@ date: 2021-07-16T01:07:36.661Z
 
 UPCOMING SHOWS:
 
-[Smoky Rose, Dallas](https://www.smokyrose.com/) - Wednesday, July 21
-
 [Lone Pint Brewery, Magnolia (w/ Leavenworth)](https://lonepint.com/) – Saturday, July 31
 
-[The Grand Stafford, Bryan (w/ Leavenworth)](https://grandstaffordtheater.com/) – Saturday, August 21
-
-[Lone Pint Brewery, Magnolia (w/ Jye Shafer)](https://lonepint.com/) – Saturday, August 28
-
-[Lone Pint Brewery, Magnolia (w/ Jye Shafer)](https://lonepint.com/) – Saturday, September 18
+[Lone Pint Brewery, Magnolia (w/ Borderline Social Club)](https://lonepint.com/) – Saturday, August 28
 
 [Cavalry Court, College Station (w/ Leavenworth)](https://www.cavalrycourt.com/live-music-events.aspx) – Saturday, September 25
 
 [Cavalry Court, College Station (w/ Leavenworth)](https://www.cavalrycourt.com/live-music-events.aspx) – Friday, November 19
 
 PAST SHOWS:
+
+[Smoky Rose, Dallas](https://www.smokyrose.com/) - Wednesday, July 21
 
 [Benson's Tavern & Beer Garden, Salida, CO](https://www.facebook.com/Bensons-Tavern-Beer-Garden-71527323736/) – Friday, July 6
 
