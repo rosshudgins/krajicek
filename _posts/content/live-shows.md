@@ -32,3 +32,5 @@ PAST SHOWS:
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, April 24, 12:30-3:30
 
 [Downtown Bryan Street & Art Fair](https://www.downtownbryan.com/downtown-street-art-fair) – Saturday, April 10, 12-12:45
+
+[Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, January 30, 12:30-3:30
