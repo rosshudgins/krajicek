@@ -9,15 +9,15 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS:
 
-[Lone Pint Brewery, Magnolia (w/ Jye Shafer & Ross Hudgins)](https://lonepint.com/) – Saturday, July 31
-
-[Lone Pint Brewery, Magnolia (w/ Borderline Social Club)](https://lonepint.com/) – Saturday, August 28
+[Lone Pint Brewery, Magnolia (w/ Ross Hudgins & Justin Ikpo)](https://lonepint.com/) – Saturday, August 28
 
 [Cavalry Court, College Station (w/ Leavenworth)](https://www.cavalrycourt.com/live-music-events.aspx) – Saturday, September 25
 
 [Cavalry Court, College Station (w/ Leavenworth)](https://www.cavalrycourt.com/live-music-events.aspx) – Friday, November 19
 
 PAST SHOWS:
+
+[Lone Pint Brewery, Magnolia (w/ Jye Shafer & Ross Hudgins)](https://lonepint.com/) – Saturday, July 31
 
 [Cavalry Court, College Station](https://www.cavalrycourt.com/live-music-events.aspx) – Wednesday, July 28
 
