@@ -11,8 +11,6 @@ UPCOMING SHOWS:
 
 [Lone Pint Brewery, Magnolia (w/ Ross Hudgins & Justin Ikpo)](https://lonepint.com/) – Saturday, August 28
 
-[Cavalry Court, College Station (w/ Leavenworth)](https://www.cavalrycourt.com/live-music-events.aspx) – Saturday, September 25
-
 [Cavalry Court, College Station (w/ Leavenworth)](https://www.cavalrycourt.com/live-music-events.aspx) – Friday, November 19
 
 PAST SHOWS:
