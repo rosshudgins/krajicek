@@ -9,8 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS:
 
-[Lone Pint Brewery, Magnolia (w/ Ross Hudgins & Justin Ikpo)](https://lonepint.com/) – Saturday, August 28, 1:00-4:00
-
 [Smoky Rose, Dallas](https://www.smokyrose.com/) - Tuesday, September 28, 6:00-9:00
 
 [Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) - Tuesday, October 5, 6:00-7:30
@@ -18,6 +16,8 @@ UPCOMING SHOWS:
 [Cavalry Court, College Station (w/ Leavenworth)](https://www.cavalrycourt.com/live-music-events.aspx) – Friday, November 19, 7:30-10:30
 
 PAST SHOWS:
+
+[Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, August 28, 6:00-9:00
 
 [Lone Pint Brewery, Magnolia (w/ Jye Shafer & Ross Hudgins)](https://lonepint.com/) – Saturday, July 31
 
