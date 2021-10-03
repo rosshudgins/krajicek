@@ -9,13 +9,13 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS:
 
-[Smoky Rose, Dallas](https://www.smokyrose.com/) - Tuesday, September 28, 6:00-9:00
-
 [Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) - song swap with Kevin Peroni - Tuesday, October 5, 6:00-7:30
 
-[Cavalry Court, College Station (w/ Leavenworth)](https://www.cavalrycourt.com/live-music-events.aspx) – Friday, November 19, 7:30-10:30
+[Lone Pint Brewery, Magnolia (w/ Leavenworth)](https://lonepint.com/) – Saturday, November 20
 
 PAST SHOWS:
+
+[Smoky Rose, Dallas](https://www.smokyrose.com/) - Tuesday, September 28, 6:00-9:00
 
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, August 28, 6:00-9:00
 
