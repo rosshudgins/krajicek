@@ -9,11 +9,13 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS:
 
-[Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) - song swap with Kevin Peroni - Tuesday, October 5, 6:00-7:30
-
 [Lone Pint Brewery, Magnolia (w/ Leavenworth)](https://lonepint.com/) – Saturday, November 20
 
 PAST SHOWS:
+
+[Lone Pint Brewery, Magnolia (w/ Kyle Littlefield)](https://lonepint.com/) – Saturday, October 23, 6:00-9:00
+
+[Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) - song swap with Kevin Peroni - Tuesday, October 5, 6:00-7:30
 
 [Smoky Rose, Dallas](https://www.smokyrose.com/) - Tuesday, September 28, 6:00-9:00
 
