@@ -9,6 +9,8 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS:
 
+[Fortress BeerWorks, Spring](https://lonepint.com/) - Saturday, October 30, 2:00-4:30
+
 [Lone Pint Brewery, Magnolia (w/ Leavenworth)](https://lonepint.com/) – Saturday, November 20
 
 PAST SHOWS:
