@@ -9,38 +9,38 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS:
 
-[The 101, Bryan](https://lonepint.com/) - Friday, November 5, 5:00-7:00
+[The 101, Bryan](https://lonepint.com/) - Friday, November 5, 2021, 5:00-7:00
 
-[Lone Pint Brewery, Magnolia (w/ Leavenworth)](https://lonepint.com/) – Saturday, November 20
+[Lone Pint Brewery, Magnolia (w/ Leavenworth)](https://lonepint.com/) – Saturday, November 20, 2021
 
 PAST SHOWS:
 
-[Fortress BeerWorks, Spring](https://lonepint.com/) - Saturday, October 30, 2:00-4:30
+[Fortress BeerWorks, Spring](https://lonepint.com/) - Saturday, October 30, 2021, 2:00-4:30
 
-[Lone Pint Brewery, Magnolia (w/ Kyle Littlefield)](https://lonepint.com/) – Saturday, October 23, 6:00-9:00
+[Lone Pint Brewery, Magnolia (w/ Kyle Littlefield)](https://lonepint.com/) – Saturday, October 23, 2021, 6:00-9:00
 
-[Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) - song swap with Kevin Peroni - Tuesday, October 5, 6:00-7:30
+[Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) - song swap with Kevin Peroni - Tuesday, October 5, 2021, 6:00-7:30
 
-[Smoky Rose, Dallas](https://www.smokyrose.com/) - Tuesday, September 28, 6:00-9:00
+[Smoky Rose, Dallas](https://www.smokyrose.com/) - Tuesday, September 28, 2021, 6:00-9:00
 
-[Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, August 28, 6:00-9:00
+[Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, August 28, 2021, 6:00-9:00
 
-[Lone Pint Brewery, Magnolia (w/ Jye Shafer & Ross Hudgins)](https://lonepint.com/) – Saturday, July 31
+[Lone Pint Brewery, Magnolia (w/ Jye Shafer & Ross Hudgins)](https://lonepint.com/) – Saturday, July 31, 2021
 
-[Cavalry Court, College Station](https://www.cavalrycourt.com/live-music-events.aspx) – Wednesday, July 28
+[Cavalry Court, College Station](https://www.cavalrycourt.com/live-music-events.aspx) – Wednesday, July 28, 2021
 
 [Smoky Rose, Dallas](https://www.smokyrose.com/) - Wednesday, July 21
 
-[Benson's Tavern & Beer Garden, Salida, CO](https://www.facebook.com/Bensons-Tavern-Beer-Garden-71527323736/) – Friday, July 6
+[Benson's Tavern & Beer Garden, Salida, CO](https://www.facebook.com/Bensons-Tavern-Beer-Garden-71527323736/) – Friday, July 6, 2021
 
-[Savage Brew Lab, Bryan](https://www.savagebrewlab.com) – Friday, June 25
+[Savage Brew Lab, Bryan](https://www.savagebrewlab.com) – Friday, June 25, 2021
 
-[Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) - song swap with Kevin Peroni - Friday, May 28, 7:30-9:30
+[Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) - song swap with Kevin Peroni - Friday, May 28, 2021, 7:30-9:30
 
-[The Post at River East, Fort Worth](http://thepostatrivereast.com/) - song swap with Jacob Furr - Thursday, May 13, 6:00-9:00
+[The Post at River East, Fort Worth](http://thepostatrivereast.com/) - song swap with Jacob Furr - Thursday, May 13, 2021, 6:00-9:00
 
-[Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, April 24, 12:30-3:30
+[Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, April 24, 2021, 12:30-3:30
 
-[Downtown Bryan Street & Art Fair](https://www.downtownbryan.com/downtown-street-art-fair) – Saturday, April 10, 12-12:45
+[Downtown Bryan Street & Art Fair](https://www.downtownbryan.com/downtown-street-art-fair) – Saturday, April 10, 2021, 12-12:45
 
-[Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, January 30, 12:30-3:30
+[Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, January 30, 2021, 12:30-3:30
