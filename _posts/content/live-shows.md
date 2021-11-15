@@ -9,11 +9,11 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS:
 
-[Mo's Irish Pub, College Station](https://lonepint.com/) - Saturday, November 6, 2021, 5:30-7:30
-
 [Lone Pint Brewery, Magnolia (w/ Leavenworth)](https://lonepint.com/) – Saturday, November 20, 2021
 
 PAST SHOWS:
+
+[Mo's Irish Pub, College Station](https://lonepint.com/) - Saturday, November 6, 2021, 5:30-7:30
 
 [The 101, Bryan](https://lonepint.com/) - Friday, November 5, 2021, 5:00-7:00
 
