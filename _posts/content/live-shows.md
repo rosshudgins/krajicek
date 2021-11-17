@@ -11,6 +11,8 @@ UPCOMING SHOWS:
 
 [Lone Pint Brewery, Magnolia (w/ Leavenworth)](https://lonepint.com/) – Saturday, November 20, 2021
 
+[Smoky Rose, Dallas](https://www.smokyrose.com/) - Sunday, December 5, 2021, 6:00-8:00
+
 PAST SHOWS:
 
 [Mo's Irish Pub, College Station](https://lonepint.com/) - Saturday, November 6, 2021, 5:30-7:30
