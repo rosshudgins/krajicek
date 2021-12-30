@@ -13,6 +13,8 @@ UPCOMING SHOWS:
 
 [Lone Pint Brewery, Magnolia (w/ Leavenworth)](https://lonepint.com/) – Saturday, March 12, 2021, 5:00-9:00
 
+[Downtown Bryan Street & Art Fair](https://www.downtownbryan.com/downtown-street-art-fair) – Saturday, April 9, 2022, set time TBA
+
 PAST SHOWS:
 
 [Smoky Rose, Dallas](https://www.smokyrose.com/) - Sunday, December 5, 2021, 6:00-8:00
