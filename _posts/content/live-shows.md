@@ -13,6 +13,8 @@ UPCOMING SHOWS:
 
 [Downtown Bryan Street & Art Fair](https://www.downtownbryan.com/downtown-street-art-fair) – Saturday, April 9, 2022, set time TBA
 
+[Aggies Helping Others Charity Golf Tournament](https://www.downtownbryan.com/downtown-street-art-fair) – Friday, May 27, venue & set time TBA
+
 PAST SHOWS:
 
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, February 5, 2021, 1:00-5:00
