@@ -15,7 +15,7 @@ UPCOMING SHOWS:
 
 [Downtown Bryan Street & Art Fair](https://www.downtownbryan.com/downtown-street-art-fair) – Saturday, April 9, 2022, set time TBA
 
-[Aggies Helping Others Charity Golf Tournament](https://www.downtownbryan.com/downtown-street-art-fair) – Friday, May 27, 2022, Cypress Lakes Golf Club (set time TBA)
+[Aggies Helping Others Charity Golf Tournament](https://www.downtownbryan.com/downtown-street-art-fair), Cypress Lakes Golf Club – Friday, May 27, 2022, 1:30-?
 
 PAST SHOWS:
 
