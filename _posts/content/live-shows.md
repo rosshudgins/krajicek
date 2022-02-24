@@ -15,6 +15,8 @@ UPCOMING SHOWS:
 
 [Downtown Bryan Street & Art Fair](https://www.downtownbryan.com/downtown-street-art-fair) – Saturday, April 9, 2022, set time TBA
 
+[4J Brewing Company, Houston (w/ BJ Gamez)](https://lonepint.com/) – Friday, May 20, 2022, 5:00-7:00
+
 [Aggies Helping Others Charity Golf Tournament](https://www.downtownbryan.com/downtown-street-art-fair), Cypress Lakes Golf Club – Friday, May 27, 2022, 1:30-?
 
 PAST SHOWS:
