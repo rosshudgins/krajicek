@@ -13,7 +13,7 @@ UPCOMING SHOWS:
 
 [Stiles Switch BBQ (SxSW), Austin](https://lonepint.com/) – Sunday, March 20, 2022, 1:00-1:50
 
-[Downtown Bryan Street & Art Fair](https://www.downtownbryan.com/downtown-street-art-fair) – Saturday, April 9, 2022, set time TBA
+[Downtown Bryan Street & Art Fair](https://www.downtownbryan.com/downtown-street-art-fair) – Saturday, April 9, 2022, 3:00-3:45
 
 [4J Brewing Company, Houston (w/ BJ Gamez)](https://lonepint.com/) – Friday, May 20, 2022, 5:00-7:00
 
