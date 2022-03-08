@@ -9,7 +9,7 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS:
 
-[Lone Pint Brewery, Magnolia (w/ Leavenworth)](https://lonepint.com/) – Saturday, March 12, 2022, 5:00-9:00
+[Lone Pint Brewery, Magnolia (w/ Leavenworth)](https://lonepint.com/) – Saturday, March 12, 2022, 4:00-8:00
 
 [Stiles Switch BBQ (SxSW), Austin](https://lonepint.com/) – Sunday, March 20, 2022, 1:00-1:50
 
@@ -19,7 +19,7 @@ UPCOMING SHOWS:
 
 [Aggies Helping Others Charity Golf Tournament](https://www.downtownbryan.com/downtown-street-art-fair), Cypress Lakes Golf Club – Friday, May 27, 2022, 1:30-?
 
-[Lone Pint Brewery, Magnolia (w/ Borderline Social Club)](https://lonepint.com/) – Saturday, June 11, 2022, 6:00-9:00
+[Lone Pint Brewery, Magnolia (w/ Leavenworth)](https://lonepint.com/) – Saturday, June 11, 2022, 6:00-9:00
 
 PAST SHOWS:
 
