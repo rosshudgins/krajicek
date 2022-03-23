@@ -9,8 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS:
 
-[Stiles Switch BBQ (SxSW), Austin](https://lonepint.com/) – Sunday, March 20, 2022, 1:00-1:50
-
 [Downtown Bryan Street & Art Fair](https://www.downtownbryan.com/downtown-street-art-fair) – Saturday, April 9, 2022, 3:00-3:45
 
 [The 101, Bryan (w/ Leavenworth)](https://lonepint.com/) – Sunday, April 24, 2022, time TBA
@@ -22,6 +20,8 @@ UPCOMING SHOWS:
 [Lone Pint Brewery, Magnolia (w/ Leavenworth)](https://lonepint.com/) – Saturday, June 11, 2022, 6:00-9:00
 
 PAST SHOWS:
+
+[Stiles Switch BBQ (SxSW), Austin](https://lonepint.com/) – Sunday, March 20, 2022, 1:00-1:50
 
 [Lone Pint Brewery, Magnolia (w/ Leavenworth)](https://lonepint.com/) – Saturday, March 12, 2022, 4:00-8:00
 
