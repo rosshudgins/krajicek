@@ -7,7 +7,7 @@ date: 2021-07-16T00:54:50.580Z
 
 ![john](../../images/uploads/img_8939-copy.jpg "JohnBigBend")
 
-John is a singer-songwriter, performer, visual artist, and host of the YouTube channel "talk show" Time to Connect.
+John is a singer-songwriter, performer, visual artist, and host of the video podcast Time to Connect (YouTube channel).
 
 One thing the COVID pandemic has shown us all is how much we cherish and miss live music. John loves to play live, loves interacting with audiences, and he is thrilled to be booking gigs again.
 
