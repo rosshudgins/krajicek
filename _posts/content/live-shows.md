@@ -13,6 +13,8 @@ UPCOMING SHOWS:
 
 [Aggies Helping Others Charity Golf Tournament](https://www.downtownbryan.com/downtown-street-art-fair), Cypress Lakes Golf Club – Friday, May 27, 2022, 1:30-?
 
+[The 101, Bryan (First Friday)](https://lonepint.com/) – Friday, June 3, 2022, 5:00-7:00
+
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, September 10, 6:00-9:00
 
 PAST SHOWS:
