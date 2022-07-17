@@ -9,11 +9,11 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS:
 
-[The 101, Bryan (First Friday)](https://lonepint.com/) – Friday, July 1, 2022, 5:30-7:30
-
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, September 10, 6:00-9:00
 
 PAST SHOWS:
+
+[The 101, Bryan (First Friday)](https://lonepint.com/) – Friday, July 1, 2022, 5:30-7:30
 
 [4J Brewing Company, Houston (w/ BJ Gamez)](https://lonepint.com/) – Friday, May 20, 2022, 5:00-7:00
 
