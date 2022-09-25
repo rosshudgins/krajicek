@@ -9,7 +9,7 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS:
 
-
+B﻿oonville Days, Brazos Museum of Natural History, Bryan - Saturday, October 1, 9:30-10:30
 
 PAST SHOWS:
 
