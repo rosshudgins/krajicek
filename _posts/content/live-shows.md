@@ -9,9 +9,11 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS:
 
-B﻿ooneville Days, Brazos Museum of Natural History, Bryan – Saturday, October 1, 9:30-10:30
+[The 101, Bryan (First Friday)](https://lonepint.com/) – Friday, November 4, 2022, 5:30-7:30
 
 PAST SHOWS:
+
+B﻿ooneville Days, Brazos Museum of Natural History, Bryan – Saturday, October 1, 9:30-10:30
 
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, September 10, 7:00-10:00
 
