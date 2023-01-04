@@ -9,13 +9,13 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-D﻿an's Silverleaf, Denton – Tuesday, January 17, 2023, 8:00-8:30
+D﻿an's Silverleaf, Denton (opening for Issac Hoskins)  – Tuesday, January 17, 2023, 8:00-8:30
 
 L﻿azy Oaks Beer Garden, Houston – Friday, January 27, 6:00-9:00
 
-L﻿one Pint Brewery, Magnolia – Saturday, March 25, 1:00-4:00
+[Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, March 25, 1:00-4:00
 
-L﻿one Pint Brewery, Magnolia – Saturday, May 20, 1:00-4:00
+[Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, May 20, 1:00-4:00
 
 PAST SHOWS:
 
