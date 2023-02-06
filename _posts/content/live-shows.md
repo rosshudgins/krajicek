@@ -11,7 +11,7 @@ UPCOMING SHOWS
 
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, March 25, 1:00-4:00
 
-T﻿he Golf Club at Cinco Ranch (Aggies Helping Others Charity event) – Friday, April 14, 1:30-3:00
+Cinco Ranch (Aggies Helping Others Charity event) – Friday, April 14, 1:30-3:00
 
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, May 20, 1:00-4:00
 
