@@ -11,9 +11,13 @@ UPCOMING SHOWS
 
 H﻿eights Drive Inn, Houston – Wednesday, February 22, 6:00-8:30
 
+[Stiles Switch BBQ (SxSW), Austin](https://lonepint.com/) – Saturday, March 19, 2023, 12:00-12:50
+
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, March 25, 1:00-4:00
 
-Cinco Ranch (Aggies Helping Others Charity event) – Friday, April 14, 1:30-3:00
+Cinco Ranch (Aggies Helping Others Charity event), Houston – Friday, April 14, 1:30-3:00 
+
+[Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) – Sunday, May 7, 2021, 2:00-4:00
 
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, May 20, 1:00-4:00
 
