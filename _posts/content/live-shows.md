@@ -31,7 +31,9 @@ H﻿eights Drive Inn, Houston – Friday, December 16, 6:00-9:00
 
 [The 101, Bryan (First Friday)](https://lonepint.com/) – Friday, November 4, 2022, 5:30-7:30
 
-[Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) - song swap with Kevin Peroni - Sunday, November 13, 2022, 5:00-7:00B﻿ooneville Days, Brazos Museum of Natural History, Bryan – Saturday, October 1, 9:30-10:30
+[Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) - song swap with Kevin Peroni - Sunday, November 13, 2022, 5:00-7:00
+
+B﻿ooneville Days, Brazos Museum of Natural History, Bryan – Saturday, October 1, 9:30-10:30
 
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, September 10, 7:00-10:00
 
