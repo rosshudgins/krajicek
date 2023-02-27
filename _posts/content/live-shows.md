@@ -9,8 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-H﻿eights Drive Inn, Houston – Wednesday, February 22, 6:00-8:30
-
 [Stiles Switch BBQ (SxSW), Austin](https://lonepint.com/) – Saturday, March 19, 2023, 12:00-12:50
 
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, March 25, 1:00-4:00
@@ -22,6 +20,8 @@ Cinco Ranch (Aggies Helping Others Charity event), Houston – Friday, April 14,
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, May 20, 1:00-4:00
 
 PAST SHOWS:
+
+H﻿eights Drive Inn, Houston – Wednesday, February 22, 6:00-8:30
 
 L﻿azy Oaks Beer Garden, Houston – Friday, January 27, 6:00-9:00
 
