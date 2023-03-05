@@ -9,7 +9,7 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[Stiles Switch BBQ (SxSW), Austin](https://lonepint.com/) – Saturday, March 19, 12:00-12:50
+[Stiles Switch BBQ (SxSW), Austin](https://lonepint.com/) – Saturday, March 18, 12:00-12:50
 
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, March 25, 1:00-4:00
 
@@ -19,7 +19,7 @@ Cinco Ranch (Aggies Helping Others Charity event), Houston – Friday, April 14,
 
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, May 20, 1:00-4:00
 
-R﻿iley's Tavern, New Braunfels– Thursday, June 22, 7:00-10:00
+R﻿iley's Tavern, New Braunfels – Thursday, June 22, 7:00-10:00
 
 PAST SHOWS:
 
