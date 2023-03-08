@@ -21,6 +21,10 @@ Cinco Ranch (Aggies Helping Others Charity event), Houston – Friday, April 14,
 
 R﻿iley's Tavern, New Braunfels – Thursday, June 22, 7:00-10:00
 
+H﻿ondo's on Main, Fredericksburg – Saturday, June 24, 12:00-3:00
+
+[Fortress BeerWorks, Spring](https://lonepint.com/) - Friday, July 21, 7:00-10:00
+
 PAST SHOWS:
 
 H﻿eights Drive Inn, Houston – Wednesday, February 22, 6:00-8:30
