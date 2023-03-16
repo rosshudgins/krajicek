@@ -13,7 +13,7 @@ UPCOMING SHOWS
 
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, March 25, 1:00-4:00
 
-[4J Brewing Company, Houston (w/ J](https://lonepint.com/) Stuckey) – Friday, March 31, 6:30-9:00
+[4J Brewing Company, Houston](https://lonepint.com/) (w/ Josh Stuckey) – Friday, March 31, 6:30-9:00
 
 Cinco Ranch (Aggies Helping Others Charity event), Houston – Friday, April 14, 1:30-3:00 
 
