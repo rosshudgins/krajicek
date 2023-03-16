@@ -9,37 +9,37 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[Stiles Switch BBQ (SxSW), Austin](https://lonepint.com/) – Saturday, March 18, 12:00-12:50
+[Stiles Switch BBQ (SxSW), Austin](http://www.stilesswitchbbq.com/) – Saturday, March 18, 12:00-12:50
 
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, March 25, 1:00-4:00
 
-[4J Brewing Company, Houston](https://lonepint.com/) (w/ Josh Stuckey) – Friday, March 31, 6:30-9:00
+[4J Brewing Company, Houston](https://www.4jbrewingcompany.com/) (w/ Josh Stuckey) – Friday, March 31, 6:30-9:00
 
-Cinco Ranch (Aggies Helping Others Charity event), Houston – Friday, April 14, 1:30-3:00 
+[Cinco Ranch (Aggies Helping Others Charity event), Houston](https://aggieshelpingothers.org/) – Friday, April 14, 1:30-3:00 
 
 [Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) – Sunday, May 7, 2:00-4:00
 
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, May 20, 1:00-4:00
 
-R﻿iley's Tavern, New Braunfels – Thursday, June 22, 7:00-10:00
+[R﻿iley's Tavern, New Braunfels](https://www.rileystavern.com/) – Thursday, June 22, 7:00-10:00
 
-S﻿outhern Sky Music Cafe, Ingram– Friday, June 23, 6:30-9:00
+[S﻿outhern Sky Music Cafe, Ingram](https://www.southernskymusiccafe.com/)– Friday, June 23, 6:30-9:00
 
-H﻿ondo's on Main, Fredericksburg – Saturday, June 24, 12:00-3:00
+[H﻿ondo's on Main, Fredericksburg](https://www.hondosonmain.com/) – Saturday, June 24, 12:00-3:00
 
-[Fortress BeerWorks, Spring](https://lonepint.com/) - Friday, July 21, 7:00-10:00
+[Fortress BeerWorks, Spring](https://www.fortressbeerworks.com/) - Friday, July 21, 7:00-10:00
 
 PAST SHOWS:
 
-H﻿eights Drive Inn, Houston – Wednesday, February 22, 6:00-8:30
+[H﻿eights Drive Inn, Houston](https://www.heightsdriveinn.com/) – Wednesday, February 22, 6:00-8:30
 
-L﻿azy Oaks Beer Garden, Houston – Friday, January 27, 6:00-9:00
+[L﻿azy Oaks Beer Garden, Houston](https://lazyoaksbeergarden.com/) – Friday, January 27, 6:00-9:00
 
-D﻿an's Silverleaf, Denton (opening for Issac Hoskins)  – Tuesday, January 17, 2023, 8:00-8:30
+[D﻿an's Silverleaf, Denton (opening for Issac Hoskins)](https://danssilverleaf.com/)  – Tuesday, January 17, 2023, 8:00-8:30
 
-H﻿eights Drive Inn, Houston – Friday, December 16, 6:00-9:00
+[H﻿eights Drive Inn, Houston](https://www.heightsdriveinn.com/) – Friday, December 16, 6:00-9:00
 
-[The 101, Bryan (First Friday)](https://lonepint.com/) – Friday, November 4, 2022, 5:30-7:30
+[The 101, Bryan (First Friday)](https://www.facebook.com/101BCS/) – Friday, November 4, 2022, 5:30-7:30
 
 [Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) - song swap with Kevin Peroni - Sunday, November 13, 2022, 5:00-7:00
 
@@ -49,13 +49,13 @@ B﻿ooneville Days, Brazos Museum of Natural History, Bryan – Saturday, Octobe
 
 [The 101, Bryan (First Friday)](https://lonepint.com/) – Friday, July 1, 2022, 5:30-7:30
 
-[4J Brewing Company, Houston (w/ BJ Gamez)](https://lonepint.com/) – Friday, May 20, 2022, 5:00-7:00
+[4J Brewing Company, Houston (w/ BJ Gamez)](https://www.4jbrewingcompany.com/) – Friday, May 20, 2022, 5:00-7:00
 
-[The 101, Bryan (Leavenworth's Last Gasp)](https://lonepint.com/) – Sunday, April 24, 2022, time TBA
+[The 101, Bryan (Leavenworth's Last Gasp)](https://www.facebook.com/101BCS/) – Sunday, April 24, 2022, time TBA
 
 [Downtown Bryan Street & Art Fair](https://www.downtownbryan.com/downtown-street-art-fair) – Saturday, April 9, 2022, 3:00-3:45
 
-[Stiles Switch BBQ (SxSW), Austin](https://lonepint.com/) – Sunday, March 20, 2022, 1:00-1:50
+[Stiles Switch BBQ (SxSW), Austin](http://www.stilesswitchbbq.com/) – Sunday, March 20, 2022, 1:00-1:50
 
 [Lone Pint Brewery, Magnolia (w/ Leavenworth)](https://lonepint.com/) – Saturday, March 12, 2022, 4:00-8:00
 
