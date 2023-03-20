@@ -5,7 +5,7 @@ date: 2021-07-16T00:54:50.580Z
 ---
 # About
 
-![john](../../images/uploads/img_8939-copy.jpg "JohnBigBend")
+![john](/images/uploads/img_1095.jpg "JohnBigBend")
 
 John is a singer-songwriter, performer, visual artist, and host of the video podcast Time to Connect (YouTube channel).
 
