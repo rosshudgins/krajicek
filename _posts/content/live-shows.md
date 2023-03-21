@@ -9,6 +9,8 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
+[T﻿he Village and Art979 Gallery, Bryan](https://www.thevillagedowntown.com/) – Friday, March 24, 6:00-8:00
+
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, March 25, 1:00-4:00
 
 [4J Brewing Company, Houston](https://www.4jbrewingcompany.com/) (w/ Josh Stuckey) – Friday, March 31, 6:30-9:00
