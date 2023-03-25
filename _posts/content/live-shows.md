@@ -27,6 +27,8 @@ UPCOMING SHOWS
 
 [H﻿ondo's on Main, Fredericksburg](https://www.hondosonmain.com/) – Saturday, June 24, 12:00-3:00
 
+[H﻿ole in the Wall, Austin](https://www.holeinthewallaustin.com/) – Sunday, June 25, 7:00-8:00
+
 [Fortress BeerWorks, Spring](https://www.fortressbeerworks.com/) – Friday, July 21, 7:00-10:00
 
 PAST SHOWS:
