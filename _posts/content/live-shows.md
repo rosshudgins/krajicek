@@ -9,10 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[T﻿he Village and Art979 Gallery, Bryan](https://www.thevillagedowntown.com/) – Friday, March 24, 6:00-8:00
-
-[Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, March 25, 1:00-4:00
-
 [4J Brewing Company, Houston](https://www.4jbrewingcompany.com/) (w/ Josh Stuckey) – Friday, March 31, 6:30-9:00
 
 [Cinco Ranch (Aggies Helping Others Charity event), Houston](https://aggieshelpingothers.org/) – Friday, April 14, 1:30-3:00 
@@ -32,6 +28,10 @@ UPCOMING SHOWS
 [Fortress BeerWorks, Spring](https://www.fortressbeerworks.com/) – Friday, July 21, 7:00-10:00
 
 PAST SHOWS:
+
+[T﻿he Village and Art979 Gallery, Bryan](https://www.thevillagedowntown.com/) – Friday, March 24, 6:00-8:00
+
+[Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, March 25, 1:00-4:00
 
 [Stiles Switch BBQ (SxSW), Austin](http://www.stilesswitchbbq.com/) – Saturday, March 18, 12:00-12:50
 
