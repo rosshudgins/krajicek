@@ -29,25 +29,25 @@ UPCOMING SHOWS
 
 PAST SHOWS:
 
-[T﻿he Village and Art979 Gallery, Bryan](https://www.thevillagedowntown.com/) – Friday, March 24, 6:00-8:00
+[T﻿he Village and Art979 Gallery, Bryan](https://www.thevillagedowntown.com/) – Friday, March 24, 2023, 6:00-8:00
 
-[Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, March 25, 1:00-4:00
+[Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, March 25, 2023, 1:00-4:00
 
-[Stiles Switch BBQ (SxSW), Austin](http://www.stilesswitchbbq.com/) – Saturday, March 18, 12:00-12:50
+[Stiles Switch BBQ (SxSW), Austin](http://www.stilesswitchbbq.com/) – Saturday, March 18, 2023, 12:00-12:50
 
-[H﻿eights Drive Inn, Houston](https://www.heightsdriveinn.com/) – Wednesday, February 22, 6:00-8:30
+[H﻿eights Drive Inn, Houston](https://www.heightsdriveinn.com/) – Wednesday, February 22, 2023, 6:00-8:30
 
-[L﻿azy Oaks Beer Garden, Houston](https://lazyoaksbeergarden.com/) – Friday, January 27, 6:00-9:00
+[L﻿azy Oaks Beer Garden, Houston](https://lazyoaksbeergarden.com/) – Friday, January 27, 2023, 6:00-9:00
 
 [D﻿an's Silverleaf, Denton (opening for Issac Hoskins)](https://danssilverleaf.com/) – Tuesday, January 17, 2023, 8:00-8:30
 
-[H﻿eights Drive Inn, Houston](https://www.heightsdriveinn.com/) – Friday, December 16, 6:00-9:00
+[H﻿eights Drive Inn, Houston](https://www.heightsdriveinn.com/) – Friday, December 16, 2022, 6:00-9:00
 
 [The 101, Bryan (First Friday)](https://www.facebook.com/101BCS/) – Friday, November 4, 2022, 5:30-7:30
 
 [Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) – song swap with Kevin Peroni  – Sunday, November 13, 2022, 5:00-7:00
 
-B﻿ooneville Days, Brazos Museum of Natural History, Bryan – Saturday, October 1, 9:30-10:30
+B﻿ooneville Days, Brazos Museum of Natural History, Bryan – Saturday, October 1, 2022, 9:30-10:30
 
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, September 10, 2022, 7:00-10:00
 
@@ -89,7 +89,7 @@ B﻿ooneville Days, Brazos Museum of Natural History, Bryan – Saturday, Octobe
 
 [Cavalry Court, College Station](https://www.cavalrycourt.com/live-music-events.aspx) – Wednesday, July 28, 2021
 
-[Smoky Rose, Dallas](https://www.smokyrose.com/)  – Wednesday, July 21
+[Smoky Rose, Dallas](https://www.smokyrose.com/)  – Wednesday, July 21, 2021
 
 [Benson's Tavern & Beer Garden, Salida, CO](https://www.facebook.com/Bensons-Tavern-Beer-Garden-71527323736/) – Friday, July 6, 2021
 
