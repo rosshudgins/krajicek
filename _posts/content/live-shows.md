@@ -23,6 +23,8 @@ UPCOMING SHOWS
 
 [H﻿ondo's on Main, Fredericksburg](https://www.hondosonmain.com/) – Saturday, June 24, 2023, 12:00-3:00
 
+[T﻿railhead Beer Garden, Kerrville](https://trailheadbeergarden.com/) – Saturday, June 24, 2023, 7:30-9:30
+
 [H﻿ole in the Wall, Austin](https://www.holeinthewallaustin.com/) (opening for Mike Nicolai) – Sunday, June 25, 2023, 7:00-8:00
 
 [Fortress BeerWorks, Spring](https://www.fortressbeerworks.com/) – Friday, July 21, 2023, 7:00-10:00
