@@ -9,8 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[4J Brewing Company, Houston](https://www.4jbrewingcompany.com/) (w/ Josh Stuckey) – Friday, March 31, 2023, 6:30-9:00
-
 [Cinco Ranch (Aggies Helping Others Charity event), Houston](https://aggieshelpingothers.org/) – Friday, April 14, 2023, 1:30-3:00 
 
 [Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) – Sunday, May 7, 2023, 2:00-4:00
@@ -30,6 +28,8 @@ UPCOMING SHOWS
 [Fortress BeerWorks, Spring](https://www.fortressbeerworks.com/) – Friday, July 21, 2023, 7:00-10:00
 
 PAST SHOWS:
+
+[4J Brewing Company, Houston](https://www.4jbrewingcompany.com/) (w/ Josh Stuckey) – Friday, March 31, 2023, 6:30-9:00
 
 [T﻿he Village and Art979 Gallery, Bryan](https://www.thevillagedowntown.com/) – Friday, March 24, 2023, 6:00-8:00
 
