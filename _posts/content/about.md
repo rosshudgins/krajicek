@@ -7,8 +7,8 @@ date: 2023-03-20T13:15:26.695Z
 
 ![john](../../images/uploads/img_1095.jpg "JohnBigBend")
 
-John is a singer-songwriter, performer, visual artist, and host of the video podcast Time to Connect (YouTube channel).
+John Krajicek is a singer-songwriter, performer, visual artist, and host of the video podcast Time to Connect (YouTube channel).
 
-We all stand on the shoulders of giants, and like all singer-songwriters, John is influenced by a variety of artists, beginning in his youth with The Beatles and Bob Dylan. Through the years, his influences have included John Prine, REM, Leonard Cohen, Joni Mitchell, Paul Simon, Tom Petty, Townes Van Zandt, Jeff Tweedy, Will Johnson, Big Thief, Jason Isbell, Jack Kerouac, Rick Bass, William Goyen, Jim Harrison, Wallace Stevens, Elizabeth Bishop, Mary Oliver, Billy Collins, and on and on.
+We don't hear the word *eclectic* much these days. Maybe that's because everything seems to run together now. Maybe genres and labels are boxes we don't have as much use for. But *eclectic* is still a good word, and it definitely applies to Krajicek. Beginning in his youth with Dylan and Lennon obsessions, over the years he's stood on the shoulders of The Byrds, John Prine, REM, Townes VZ, Jeff Tweedy, Will Johnson, and a slew of people and friends you've never heard of.
 
-John's motto is "always be creating." And he is constantly writing songs. He knows that melody is king in this process, but he is equally fascinated by language, by the way we can process emotions, memories, and experiences into words and images. A lot of what John writes involves family and friends; actual, real experiences, both profound moments and the more mundane moments that somehow become strong memories.
+J﻿ohn keeps telling himself to "always be creating," and he constantly writes songs, turning emotions, experiences, and memories into words, images, and melodies.
