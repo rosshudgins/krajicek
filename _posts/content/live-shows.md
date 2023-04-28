@@ -5,7 +5,7 @@ date: 2021-07-24T22:46:32.154Z
 ---
 # Live Shows
 
-![john](/images/uploads/img_3328-copy-3-.jpg)
+![](../../images/uploads/img_3328-copy-3-.jpg)
 
 UPCOMING SHOWS
 
