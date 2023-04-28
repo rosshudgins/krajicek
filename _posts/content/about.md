@@ -5,7 +5,7 @@ date: 2023-03-20T13:15:26.695Z
 ---
 # About
 
-![john](/images/uploads/img_1353-copy-2-.jpg "JohnBigBend")
+![](../../images/uploads/img_1353-copy-2-.jpg "JohnBigBend").
 
 W﻿hat to say, what to say? There seems to be some contradiction between art and self-promotion. Between wanting to be seen & heard and wanting to be authentic. Between wanting to present yourself to the world accurately and all too common practices such as talking about yourself in third-person. Look, I make songs and I sing them. Jeff Tweedy once said something to the effect of pretty much anyone who gets up on stage is saying "please love me." I don't know about that, but I do know I like it when people like my songs.
 
