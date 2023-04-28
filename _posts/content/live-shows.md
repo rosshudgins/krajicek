@@ -5,7 +5,7 @@ date: 2021-07-24T22:46:32.154Z
 ---
 # Live Shows
 
-![john](../../images/uploads/john1.jpg)
+![john](/images/uploads/img_3328-copy-3-.jpg)
 
 UPCOMING SHOWS
 
@@ -24,8 +24,6 @@ UPCOMING SHOWS
 [H﻿ole in the Wall, Austin](https://www.holeinthewallaustin.com/) (opening for Mike Nicolai) – Sunday, June 25, 2023, 7:00-8:00
 
 [Fortress BeerWorks, Spring](https://www.fortressbeerworks.com/) – Friday, July 21, 2023, 7:00-10:00
-
-
 
 PAST SHOWS:
 
