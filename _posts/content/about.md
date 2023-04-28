@@ -11,6 +11,6 @@ J﻿ohn Krajicek is a folk country rock singer-songwriter, visual artist, host o
 
 B﻿orn in Leavenworth, KS. Enchanted by Dylan and Lennon in his youth. College years in Denton, TX. Obsessively writes songs. Loves to play live.
 
-R﻿EM, John Prine, The Band, Joni Mitchell, Neil Young, Natalie Merchant, Townes Van Zandt, Wilco, Will Johnson, Califone, Jason Lytle, The National, Andrew Bird, Welch & Rawlings, The Felice Brothers, Big Thief, on and on.
+John Prine, The Byrds, The Band, Joni Mitchell, Neil Young, REM, Wallace Stevens, Elizabeth Bishop, Townes Van Zandt, Natalie Merchant, Wilco, Will Johnson, Califone, Jason Lytle, Andrew Bird, Welch & Rawlings, Billy Collins, The Felice Brothers, Big Thief, on and on.
 
 "Life isn't about finding yourself; or finding anything. Life is about creating yourself; and creating things." (Dylan)
