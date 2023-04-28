@@ -7,8 +7,8 @@ date: 2023-03-20T13:15:26.695Z
 
 ![john](/images/uploads/img_1353-copy-2-.jpg "JohnBigBend")
 
-John Krajicek is a singer-songwriter, performer, visual artist, and host of the video podcast Time to Connect (YouTube channel).
+W﻿hat to say, what to say? There seems to be some contradiction between art and self-promotion. Between wanting to be seen & heard and wanting to be authentic. Between wanting to present yourself to the world accurately and all too common practices such as talking about yourself in third-person. Look, I make songs and I sing them. Jeff Tweedy once said something to the effect of pretty much anyone who gets up on stage is saying "please love me." I don't know about that, but I do know I like it when people like my songs.
 
-We don't hear the word *eclectic* much these days. Maybe that's because everything seems to run together now. Maybe genres and labels are boxes we don't have as much use for. But *eclectic* is still a good word, and it definitely applies to Krajicek. Beginning in his youth with Dylan and Lennon obsessions, over the years he's stood on the shoulders of The Byrds, John Prine, REM, Townes VZ, Jeff Tweedy, Will Johnson, and a slew of people and friends you've never heard of.
+B﻿ob Dylan has meant a lot to me, and these words from him pretty much sum it up: "Life isn't about finding yourself; or finding anything. Life is about creating yourself; and creating things."
 
-J﻿ohn keeps telling himself to "always be creating," and he constantly writes songs, turning emotions, experiences, and memories into words, images, and melodies.
+I obsessively create. And I like to share. So here's my website. Take a look around.
