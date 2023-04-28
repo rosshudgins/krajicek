@@ -5,7 +5,7 @@ date: 2023-03-20T13:15:26.695Z
 ---
 # About
 
-![john](../../images/uploads/img_1095.jpg "JohnBigBend")
+![john](/images/uploads/img_1353-copy-2-.jpg "JohnBigBend")
 
 John Krajicek is a singer-songwriter, performer, visual artist, and host of the video podcast Time to Connect (YouTube channel).
 
