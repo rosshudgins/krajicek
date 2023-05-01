@@ -7,8 +7,6 @@ date: 2021-07-24T22:46:32.154Z
 
 ![](../../images/uploads/img_3328-copy-3-.jpg)
 
-![](../../images/uploads/img_5048.png)
-
 UPCOMING SHOWS
 
 [Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) (w/ Kyle Littlefield) – Sunday, May 7, 2023, 2:00-4:00
