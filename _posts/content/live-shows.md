@@ -9,9 +9,11 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[Fortress BeerWorks, Spring](https://www.fortressbeerworks.com/) – Friday, July 21, 2023, 7:00-10:00
+NO SHOWS AT THIS TIME. John is focused on recording for the next few months.
 
 PAST SHOWS:
+
+[Fortress BeerWorks, Spring](https://www.fortressbeerworks.com/) – Friday, July 21, 2023, 7:00-10:00
 
 [R﻿iley's Tavern, New Braunfels](https://www.rileystavern.com/) – Thursday, June 22, 2023, 7:00-10:00
 
