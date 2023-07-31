@@ -3,7 +3,7 @@ layout: content
 title: Live
 date: 2021-07-24T22:46:32.154Z
 ---
-# Live Shows
+# Performances
 
 ![](../../images/uploads/img_3328-copy-3-.jpg)
 
