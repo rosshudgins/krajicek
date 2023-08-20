@@ -9,7 +9,7 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-Curious Collections Vinyl Records & More, Bryan (with Ben Morris & Eric Fisher) – Sunday, September 17, 2023, 5:00-7:00
+[](https://curiouscollectionstx.com/)[Curious Collections Vinyl Records & More, Bryan](https://curiouscollectionstx.com/) (with Ben Morris & Eric Fisher) – Sunday, September 17, 2023, 5:00-7:00
 
 PAST SHOWS:
 
