@@ -9,9 +9,11 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[](https://curiouscollectionstx.com/)[Curious Collections Vinyl Records & More, Bryan](https://curiouscollectionstx.com/) (with Ben Morris & Eric Fisher) – Sunday, September 17, 2023, 5:00-7:00
+[](https://curiouscollectionstx.com/)[](https://curiouscollectionstx.com/)
 
 PAST SHOWS:
+
+[](https://curiouscollectionstx.com/)[Curious Collections Vinyl Records & More, Bryan](https://curiouscollectionstx.com/) (with Ben Morris & Eric Fisher) – Sunday, September 17, 2023, 5:00-7:00
 
 [Fortress BeerWorks, Spring](https://www.fortressbeerworks.com/) – Friday, July 21, 2023, 7:00-10:00
 
