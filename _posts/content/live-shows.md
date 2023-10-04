@@ -9,7 +9,7 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[](https://curiouscollectionstx.com/)[](https://curiouscollectionstx.com/)
+[L﻿azy Oaks Beer Garden, Houston (w/ BJ Gamez & Josh Stuckey)](https://lazyoaksbeergarden.com/) – Friday, November 3, 2023, 7:00-10:00
 
 PAST SHOWS:
 
