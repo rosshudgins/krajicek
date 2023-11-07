@@ -9,9 +9,13 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[L﻿azy Oaks Beer Garden, Houston (w/ BJ Gamez & Josh Stuckey)](https://lazyoaksbeergarden.com/) – Friday, November 3, 2023, 7:00-10:00
+[The 101, Bryan (Toys for Tots Benefit)](https://www.facebook.com/101BCS/) – Sunday, December 10, 2023, time tba
+
+[Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) – Steve Earle 69th Birthday Bash  – Sunday, January 14, 2023, 3:00-5:00
 
 PAST SHOWS:
+
+[L﻿azy Oaks Beer Garden, Houston (w/ BJ Gamez & Josh Stuckey)](https://lazyoaksbeergarden.com/) – Friday, November 3, 2023, 7:00-10:00
 
 [](https://curiouscollectionstx.com/)[Curious Collections Vinyl Records & More, Bryan](https://curiouscollectionstx.com/) (with Ben Morris & Eric Fisher) – Sunday, September 17, 2023, 5:00-7:00
 
