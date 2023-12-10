@@ -9,9 +9,17 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[The 101, Bryan (Toys for Tots Benefit)](https://www.facebook.com/101BCS/) – Sunday, December 10, 2023, time tba
+[Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) – Steve Earle 69th Birthday Bash – Sunday, January 14, 2024, 3:00-5:00
 
-[Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) – Steve Earle 69th Birthday Bash  – Sunday, January 14, 2023, 3:00-5:00
+[New Braunfels Brewing Company](https://www.nbbrewtx.com/), NB – Saturday, February 3, 2024, 3:00-5:00
+
+[Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, May 25, 2024, 1:00-4:00
+
+[Marvin's Place Art Gallery](https://marvinsplace.gallery/) (w/ Ed Rogers), Ardmore, OK – Friday, July 12, 2024, 6:30-8:30
+
+[Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, September 21, 2024, 1:00-4:00
+
+[Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, Novmeber 2, 2024, 1:00-4:00
 
 PAST SHOWS:
 
