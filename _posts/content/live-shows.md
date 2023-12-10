@@ -11,11 +11,11 @@ UPCOMING SHOWS
 
 [Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) – Steve Earle 69th Birthday Bash – Sunday, January 14, 2024, 3:00-5:00
 
-[New Braunfels Brewing Company](https://www.nbbrewtx.com/), NB – Saturday, February 3, 2024, 3:00-5:00
+[New Braunfels Brewing Company, NB](https://www.nbbrewtx.com/) – Saturday, February 3, 2024, 3:00-5:00
 
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, May 25, 2024, 1:00-4:00
 
-[Marvin's Place Art Gallery](https://marvinsplace.gallery/) (w/ Ed Rogers), Ardmore, OK – Friday, July 12, 2024, 6:30-8:30
+[Marvin's Place Art Gallery, Ardmore OK ](https://marvinsplace.gallery/) (w/ Ed Rogers) – Friday, July 12, 2024, 6:30-8:30
 
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, September 21, 2024, 1:00-4:00
 
