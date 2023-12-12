@@ -13,6 +13,8 @@ UPCOMING SHOWS
 
 [New Braunfels Brewing Company, NB](https://www.nbbrewtx.com/) – Saturday, February 3, 2024, 3:00-5:00
 
+[Cowboy Surfer, Houston](https://cowboysurferbar.com/) – Wednesday, February 21, 2024, 6:00-9:00
+
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, May 25, 2024, 1:00-4:00
 
 [Marvin's Place Art Gallery, Ardmore OK ](https://marvinsplace.gallery/) (w/ Ed Rogers) – Friday, July 12, 2024, 6:30-8:30
