@@ -23,7 +23,7 @@ UPCOMING SHOWS
 
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, September 21, 2024, 1:00-4:00
 
-[Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, Novmeber 2, 2024, 1:00-4:00
+[Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, November 2, 2024, 1:00-4:00
 
 PAST SHOWS:
 
