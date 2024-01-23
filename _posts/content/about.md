@@ -11,6 +11,6 @@ J﻿ohn Krajicek is a FolkCountryRock singer-songwriter, visual artist, host of 
 
 B﻿orn in Leavenworth, Kansas. Enchanted by Dylan and Lennon in his youth. College years in Denton, TX. Obsessively writes songs. Loves to play live.
 
-The Felice Brothers, Wilco, Will Johnson, Centro-matic, The Band, REM, Neil Young, Townes Van Zandt, John Prine, The Byrds, Welch & Rawlings, Dylan, Lennon, Billy Collins, on and on.
+The Felice Brothers, Wilco, Will Johnson, Centro-matic, The Band, REM, The Decemberists, Neil Young, Townes Van Zandt, John Prine, The Byrds, Death Cab, Welch & Rawlings, Dylan, Lennon, Billy Collins, on and on.
 
 "Life isn't about finding yourself; or finding anything. Life is about creating yourself; and creating things." (Dylan)
