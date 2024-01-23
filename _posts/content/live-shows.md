@@ -9,13 +9,15 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) – Steve Earle 69th Birthday Bash – Sunday, January 14, 2024, 3:00-5:00
-
-[New Braunfels Brewing Company, NB](https://www.nbbrewtx.com/) – Saturday, February 3, 2024, 3:00-5:00
+[New Braunfels Brewing Company, New Braunfels](https://www.nbbrewtx.com/) – Saturday, February 3, 2024, 3:00-5:00
 
 [Cowboy Surfer, Houston](https://cowboysurferbar.com/) – Wednesday, February 21, 2024, 6:00-9:00
 
+[The 101, Bryan (full band show)](https://lonepint.com/) – Saturday, February 24, 2024, 10:00-11:00
+
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, April 6, 2024, 1:00-4:00
+
+[Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) – Bob Dylan 83rd Birthday Bash – Friday, May 24, 2024, 6:30-9:30
 
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, May 25, 2024, 1:00-4:00
 
