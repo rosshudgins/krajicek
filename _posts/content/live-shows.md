@@ -15,6 +15,8 @@ UPCOMING SHOWS
 
 [The 101, Bryan (full band show)](https://lonepint.com/) – Saturday, February 24, 2024, 10:00-11:00
 
+[Marfa Texas Kitchen, College Station](https://marfatexaskitchen.com/) – Friday, March 8, 2024, 6:30-8:30
+
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, April 6, 2024, 1:00-4:00
 
 [Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) – Bob Dylan 83rd Birthday Bash – Friday, May 24, 2024, 6:30-9:30
