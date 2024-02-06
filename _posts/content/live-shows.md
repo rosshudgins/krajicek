@@ -9,10 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[New Braunfels Brewing Company, New Braunfels](https://www.nbbrewtx.com/) – Saturday, February 3, 2024, 3:00-5:00
-
-[Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) – Sunday, February 4, 2024, 3:00-5:00
-
 [Cowboy Surfer, Houston](https://cowboysurferbar.com/) – Wednesday, February 21, 2024, 6:00-9:00
 
 [The 101, Bryan (full band show)](https://lonepint.com/) – Saturday, February 24, 2024, 10:00-11:00
@@ -32,6 +28,10 @@ UPCOMING SHOWS
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, November 2, 2024, 1:00-4:00
 
 PAST SHOWS:
+
+[Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) – Sunday, February 4, 2024, 3:00-5:00
+
+[New Braunfels Brewing Company, New Braunfels](https://www.nbbrewtx.com/) – Saturday, February 3, 2024, 3:00-5:00
 
 [L﻿azy Oaks Beer Garden, Houston (w/ BJ Gamez & Josh Stuckey)](https://lazyoaksbeergarden.com/) – Friday, November 3, 2023, 7:00-10:00
 
