@@ -9,10 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[Cowboy Surfer, Houston](https://cowboysurferbar.com/) – Wednesday, February 21, 2024, 6:00-9:00
-
-[The 101, Bryan (full band show)](https://lonepint.com/) – Saturday, February 24, 2024, 10:00-11:00
-
 [Marfa Texas Kitchen, College Station](https://marfatexaskitchen.com/) – Friday, March 8, 2024, 6:30-8:30
 
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, April 6, 2024, 1:00-4:00
@@ -32,6 +28,10 @@ UPCOMING SHOWS
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, November 2, 2024, 1:00-4:00
 
 PAST SHOWS:
+
+[Cowboy Surfer, Houston](https://cowboysurferbar.com/) – Wednesday, February 21, 2024, 6:00-9:00
+
+[The 101, Bryan (full band show)](https://lonepint.com/) – Saturday, February 24, 2024, 10:00-11:00
 
 [Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) – Sunday, February 4, 2024, 3:00-5:00
 
