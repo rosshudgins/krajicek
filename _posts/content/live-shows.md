@@ -9,8 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[Marfa Texas Kitchen, College Station](https://marfatexaskitchen.com/) – Friday, March 8, 2024, 6:30-8:30
-
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, April 6, 2024, 1:00-4:00
 
 [The 101, Bryan (KEOS Jam, full band show)](https://lonepint.com/) – Sunday, April 14, 2024, 8:00-9:00
@@ -30,6 +28,8 @@ UPCOMING SHOWS
 [Lone Pint Brewery, Magnolia](https://lonepint.com/) – Saturday, November 2, 2024, 1:00-4:00
 
 PAST SHOWS:
+
+[Marfa Texas Kitchen, College Station](https://marfatexaskitchen.com/) – Friday, March 8, 2024, 6:30-8:30
 
 [Cowboy Surfer, Houston](https://cowboysurferbar.com/) – Wednesday, February 21, 2024, 6:00-9:00
 
