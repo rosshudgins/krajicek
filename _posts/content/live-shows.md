@@ -15,7 +15,7 @@ UPCOMING SHOWS
 
 [Sundown at Sam's, Huntsville](https://events.shsu.edu/event/sundown_at_sams_-_live_music) – Thursday, April 18, 2024, 6:15-7:00
 
-[New Braunfels Brewing Company, New Braunfels](https://www.nbbrewtx.com/) – Saturday, April 20, 2024, time tba
+[New Braunfels Brewing Company, New Braunfels](https://www.nbbrewtx.com/) – Saturday, April 20, 2024, 11:30-1:30
 
 [Cherrywood Coffeehouse, Austin](https://cherrywoodcoffeehouse.com/) – Bob Dylan 83rd Birthday Bash – Friday, May 24, 2024, 6:30-9:30
 
