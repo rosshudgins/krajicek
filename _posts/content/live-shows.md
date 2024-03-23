@@ -17,6 +17,8 @@ UPCOMING SHOWS
 
 [New Braunfels Brewing Company, New Braunfels, TX](https://www.nbbrewtx.com/) – Saturday, April 20, 2024, 11:30-1:30
 
+[L﻿azy Oaks Beer Garden, Houston, TX](https://lazyoaksbeergarden.com/) – Thursday, May 9, 2024, 7:00-10:00
+
 [Cherrywood Coffeehouse, Austin, TX](https://cherrywoodcoffeehouse.com/) – Bob Dylan 83rd Birthday Bash – Friday, May 24, 2024, 6:30-9:30
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, May 25, 2024, 1:00-4:00
