@@ -25,6 +25,8 @@ UPCOMING SHOWS
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, May 25, 2024, 1:00-4:00
 
+[Cowboy Surfer, Houston, TX (with Matt Harlan)](https://cowboysurferbar.com/) – Sunday, June 23, 2024, 7:00-9:00
+
 [Marvin's Place Art Gallery, Ardmore, OK ](https://marvinsplace.gallery/) (w/ Ed Rogers) – Friday, July 12, 2024, 6:30-8:30
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, September 21, 2024, 1:00-4:00
