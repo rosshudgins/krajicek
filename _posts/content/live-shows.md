@@ -25,6 +25,8 @@ UPCOMING SHOWS
 
 [Marvin's Place Art Gallery, Ardmore, OK ](https://marvinsplace.gallery/) (w/ Ed Rogers) – Friday, July 12, 2024, 6:30-8:30
 
+[Dr. Jeckyll's Beer Lab, Pantego, TX](https://www.facebook.com/drjeckyllsbeerlab/) (w/ Ed Rogers) – Saturday, July 13, 2024, 7:00-9:00
+
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, September 21, 2024, 1:00-4:00
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, November 2, 2024, 1:00-4:00
