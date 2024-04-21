@@ -9,8 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[Sundown at Sam's, Huntsville, TX](https://events.shsu.edu/event/sundown_at_sams_-_live_music) – Thursday, April 18, 2024, 6:15-7:00
-
 [Marfa Texas Kitchen, College Station, TX](https://marfatexaskitchen.com/) – Friday, May 3, 2024, 6:30-8:30
 
 [L﻿azy Oaks Beer Garden, Houston, TX](https://lazyoaksbeergarden.com/) – Thursday, May 9, 2024, 7:00-10:00
@@ -32,6 +30,8 @@ UPCOMING SHOWS
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, November 2, 2024, 1:00-4:00
 
 PAST SHOWS:
+
+[Sundown at Sam's, Huntsville, TX](https://events.shsu.edu/event/sundown_at_sams_-_live_music) – Thursday, April 18, 2024, 6:15-7:00
 
 [The 101, Bryan, TX (KEOS Jam, full band show)](https://lonepint.com/) – Sunday, April 14, 2024, 8:00-9:00
 
