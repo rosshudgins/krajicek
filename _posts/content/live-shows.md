@@ -11,7 +11,7 @@ UPCOMING SHOWS
 
 [Marfa Texas Kitchen, College Station, TX](https://marfatexaskitchen.com/) – Friday, May 3, 2024, 6:30-8:30
 
-[L﻿azy Oaks Beer Garden, Houston, TX](https://lazyoaksbeergarden.com/) – Thursday, May 9, 2024, 7:00-10:00
+[L﻿azy Oaks Beer Garden, Houston, TX](https://lazyoaksbeergarden.com/) (with BJ Gamez & Josh Stuckey) – Thursday, May 9, 2024, 7:00-10:00
 
 [Cherrywood Coffeehouse, Austin, TX](https://cherrywoodcoffeehouse.com/) – Bob Dylan 83rd Birthday Bash – Friday, May 24, 2024, 6:30-9:30
 
