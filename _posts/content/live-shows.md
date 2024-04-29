@@ -21,6 +21,8 @@ UPCOMING SHOWS
 
 [Cowboy Surfer, Houston, TX (with Matt Harlan)](https://cowboysurferbar.com/) – Sunday, June 23, 2024, 7:00-9:00
 
+[Knuckleheads, Kansas City, MO](https://knuckleheadskc.com/) – Thursday, July 11, 2024, 7:30-10:00
+
 [Marvin's Place Art Gallery, Ardmore, OK ](https://marvinsplace.gallery/) (w/ Ed Rogers) – Friday, July 12, 2024, 6:30-8:30
 
 [Dr. Jeckyll's Beer Lab, Pantego, TX](https://www.facebook.com/drjeckyllsbeerlab/) (w/ Ed Rogers) – Saturday, July 13, 2024, 7:00-9:00
