@@ -9,8 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[L﻿azy Oaks Beer Garden, Houston, TX](https://lazyoaksbeergarden.com/) (with BJ Gamez & Josh Stuckey) – Thursday, May 9, 2024, 7:00-10:00
-
 [Cherrywood Coffeehouse, Austin, TX](https://cherrywoodcoffeehouse.com/) – Bob Dylan 83rd Birthday Bash – Friday, May 24, 2024, 7:00-9:30
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, May 25, 2024, 1:00-4:00
@@ -30,6 +28,8 @@ UPCOMING SHOWS
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, November 2, 2024, 1:00-4:00
 
 PAST SHOWS:
+
+[L﻿azy Oaks Beer Garden, Houston, TX](https://lazyoaksbeergarden.com/) (with BJ Gamez & Josh Stuckey) – Thursday, May 9, 2024, 6:00-9:00
 
 [Marfa Texas Kitchen, College Station, TX](https://marfatexaskitchen.com/) – Friday, May 3, 2024, 6:30-8:30
 
