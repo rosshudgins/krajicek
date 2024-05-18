@@ -9,8 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[Cherrywood Coffeehouse, Austin, TX](https://cherrywoodcoffeehouse.com/) – Bob Dylan 83rd Birthday Bash – Friday, May 24, 2024, 7:00-9:30
-
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, May 25, 2024, 1:00-4:00
 
 [El Camino Lounge @ Motel Soco, Pagosa Springs, CO](https://www.motelsoco.com/el-camino-lounge) – Sunday, June 2, 2024, 3:00-6:00
