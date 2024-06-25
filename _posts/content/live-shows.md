@@ -9,8 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[Cowboy Surfer, Houston, TX (with Matt Harlan)](https://cowboysurferbar.com/) – Sunday, June 23, 2024, 7:00-9:00
-
 [Knuckleheads, Kansas City, MO](https://knuckleheadskc.com/) – Thursday, July 11, 2024, 7:30-10:00
 
 [Marvin's Place Art Gallery, Ardmore, OK ](https://marvinsplace.gallery/) (w/ Ed Rogers) – Friday, July 12, 2024, 6:30-8:30
@@ -22,6 +20,8 @@ UPCOMING SHOWS
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, November 2, 2024, 1:00-4:00
 
 PAST SHOWS:
+
+[Cowboy Surfer, Houston, TX (with Matt Harlan)](https://cowboysurferbar.com/) – Sunday, June 23, 2024, 7:00-9:00
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, May 25, 2024, 1:00-4:00
 
