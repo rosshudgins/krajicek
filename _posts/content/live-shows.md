@@ -9,17 +9,21 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[Knuckleheads, Kansas City, MO](https://knuckleheadskc.com/) – Thursday, July 11, 2024, 7:30-10:00
+[Third Floor Cantina, Bryan, TX](https://www.facebook.com/3rdfloordt) (with Borderline Social Club) – Friday, September 13, 2024, time TBA
 
-[Marvin's Place Art Gallery, Ardmore, OK ](https://marvinsplace.gallery/) (w/ Ed Rogers) – Friday, July 12, 2024, 6:30-8:30
-
-[Dr. Jeckyll's Beer Lab, Pantego, TX](https://www.facebook.com/drjeckyllsbeerlab/) (w/ Ed Rogers) – Saturday, July 13, 2024, 7:00-9:00
+[Third Floor Cantina, Bryan, TX](https://www.facebook.com/3rdfloordt) (with Ed Rogers) – Saturday, September 14, 2024, time TBA
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, September 21, 2024, 1:00-4:00
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, November 2, 2024, 1:00-4:00
 
 PAST SHOWS:
+
+[Knuckleheads, Kansas City, MO](https://knuckleheadskc.com/) – Thursday, July 11, 2024, 7:30-10:00
+
+[Marvin's Place Art Gallery, Ardmore, OK ](https://marvinsplace.gallery/) (w/ Ed Rogers) – Friday, July 12, 2024, 6:30-8:30
+
+[Dr. Jeckyll's Beer Lab, Pantego, TX](https://www.facebook.com/drjeckyllsbeerlab/) (w/ Ed Rogers) – Saturday, July 13, 2024, 7:00-9:00
 
 [Cowboy Surfer, Houston, TX (with Matt Harlan)](https://cowboysurferbar.com/) – Sunday, June 23, 2024, 7:00-9:00
 
