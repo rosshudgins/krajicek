@@ -17,6 +17,8 @@ UPCOMING SHOWS
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, November 2, 2024, 1:00-4:00
 
+[H﻿ondo's on Main, Fredericksburg, TX](https://www.hondosonmain.com/) (with Bo DePena) – Sunday, December 8, 2024, 6:00-8:00
+
 PAST SHOWS:
 
 [Knuckleheads, Kansas City, MO](https://knuckleheadskc.com/) – Thursday, July 11, 2024, 7:30-10:00
