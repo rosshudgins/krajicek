@@ -15,7 +15,7 @@ UPCOMING SHOWS
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, September 21, 2024, 1:00-4:00
 
-[Urban Table, College Station, TX](https://urbantabletx.com/) – Thursday, October 24, 2024, 7:30-9:30
+[Urban Table, College Station, TX](https://urbantabletx.com/) – Thursday, October 24, 2024, 6:30-8:30
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, November 2, 2024, 1:00-4:00
 
