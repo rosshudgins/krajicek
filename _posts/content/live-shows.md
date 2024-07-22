@@ -9,6 +9,8 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
+[Load Off Fanny's, Lockhart, TX](https://www.loadofffannys.com/) – Friday, August 16, 2024, 7:00-9:00
+
 [Third Floor Cantina, Bryan, TX](https://www.facebook.com/3rdfloordt) (with Borderline Social Club) – Friday, September 13, 2024, time TBA
 
 [Third Floor Cantina, Bryan, TX](https://www.facebook.com/3rdfloordt) (with Ed Rogers) – Saturday, September 14, 2024, time TBA
