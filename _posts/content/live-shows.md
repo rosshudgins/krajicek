@@ -21,6 +21,8 @@ UPCOMING SHOWS
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, November 2, 2024, 1:00-4:00
 
+[Home Sweet Farms, Brenham, TX](https://www.homesweetfarmbrenham.com/) – Sunday, November 17, 2024, 1:30-3:30 
+
 [H﻿ondo's on Main, Fredericksburg, TX](https://www.hondosonmain.com/) (with Bo DePena) – Sunday, December 8, 2024, 6:00-8:00
 
 PAST SHOWS:
