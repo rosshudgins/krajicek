@@ -5,7 +5,7 @@ date: 2023-03-20T13:15:26.695Z
 ---
 # About
 
-![](../../images/uploads/LonePintgigstill.png)
+![](../../images/uploads/img_4053-copy.jpg)
 
 J﻿ohn Krajicek is a singer-songwriter, visual artist, host of the video podcast Time to Connect (YouTube), Mindfulness & Emotional Intelligence coach, and a semi-retired Professor (Texas A&M).
 
