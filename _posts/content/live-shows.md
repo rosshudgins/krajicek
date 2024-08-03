@@ -23,7 +23,7 @@ UPCOMING SHOWS
 
 [Home Sweet Farms, Brenham, TX](https://www.homesweetfarmbrenham.com/) – Sunday, November 17, 2024, 1:30-4:30 
 
-[H﻿ondo's on Main, Fredericksburg, TX](https://www.hondosonmain.com/) (with Bo DePena) – Sunday, December 8, 2024, 6:00-8:00
+[H﻿ondo's on Main, Fredericksburg, TX](https://www.hondosonmain.com/) – Saturday, December 14, 2024, 12:00-3:00
 
 PAST SHOWS:
 
