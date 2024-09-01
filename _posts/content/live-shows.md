@@ -21,6 +21,8 @@ UPCOMING SHOWS
 
 [Home Sweet Farms, Brenham, TX](https://www.homesweetfarmbrenham.com/) – Sunday, November 17, 2024, 1:30-4:30 
 
+[Load Off Fanny's, Lockhart, TX](https://www.loadofffannys.com/) – Friday, December 13, 2024, 7:00-9:00
+
 [H﻿ondo's on Main, Fredericksburg, TX](https://www.hondosonmain.com/) – Saturday, December 14, 2024, 12:00-3:00
 
 PAST SHOWS:
