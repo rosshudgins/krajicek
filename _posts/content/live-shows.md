@@ -9,12 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[Third Floor Cantina, Bryan, TX](https://www.facebook.com/3rdfloordt) (with Borderline Social Club) – Friday, September 13, 2024, time TBA
-
-[Third Floor Cantina, Bryan, TX](https://www.facebook.com/3rdfloordt) (with Ed Rogers) – Saturday, September 14, 2024, time TBA
-
-[Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, September 21, 2024, 1:00-4:00
-
 [Urban Table, College Station, TX](https://urbantabletx.com/) – Thursday, October 24, 2024, 6:30-8:30
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, November 2, 2024, 1:00-4:00
@@ -26,6 +20,12 @@ UPCOMING SHOWS
 [H﻿ondo's on Main, Fredericksburg, TX](https://www.hondosonmain.com/) – Saturday, December 14, 2024, 12:00-3:00
 
 PAST SHOWS:
+
+[Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, September 21, 2024, 1:00-4:00
+
+[Third Floor Cantina, Bryan, TX](https://www.facebook.com/3rdfloordt) (with Ed Rogers) – Saturday, September 14, 2024, time TBA
+
+[Third Floor Cantina, Bryan, TX](https://www.facebook.com/3rdfloordt) (with Borderline Social Club) – Friday, September 13, 2024, time TBA
 
 [Load Off Fanny's, Lockhart, TX](https://www.loadofffannys.com/) – Friday, August 16, 2024, 7:00-9:00
 
