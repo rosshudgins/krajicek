@@ -13,7 +13,7 @@ UPCOMING SHOWS
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, November 2, 2024, 1:00-4:00
 
-[Home Sweet Farms, Brenham, TX](https://www.homesweetfarmbrenham.com/) – Sunday, November 17, 2024, 1:30-4:30 
+[Home Sweet Farm, Brenham, TX](https://www.homesweetfarmbrenham.com/) – Sunday, November 17, 2024, 1:30-4:30 
 
 [Load Off Fanny's, Lockhart, TX](https://www.loadofffannys.com/) – Friday, December 13, 2024, 7:00-9:00
 
