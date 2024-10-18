@@ -19,6 +19,8 @@ UPCOMING SHOWS
 
 [H﻿ondo's on Main, Fredericksburg, TX](https://www.hondosonmain.com/) – Saturday, December 14, 2024, 12:00-3:00
 
+[Cherrywood Coffeehouse, Austin, TX](https://cherrywoodcoffeehouse.com/) – Sunday, December 15, 2024, 2:00-4:00
+
 PAST SHOWS:
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, September 21, 2024, 1:00-4:00
