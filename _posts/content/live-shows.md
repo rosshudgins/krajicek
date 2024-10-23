@@ -23,6 +23,8 @@ UPCOMING SHOWS
 
 [Cherrywood Coffeehouse, Austin, TX](https://cherrywoodcoffeehouse.com/) – Sunday, December 15, 2024, 2:00-4:00
 
+[Urban Table, College Station, TX](https://urbantabletx.com/) – Thursday, January 2, 2025, 6:30-8:30
+
 PAST SHOWS:
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, September 21, 2024, 1:00-4:00
