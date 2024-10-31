@@ -19,6 +19,8 @@ UPCOMING SHOWS
 
 [H﻿ondo's on Main, Fredericksburg, TX](https://www.hondosonmain.com/) – Saturday, December 14, 2024, 12:00-3:00
 
+[New Braunfels Brewing Company, New Braunfels, TX](https://www.nbbrewtx.com/) – Saturday, December 14, 2024, 6:15-8:15
+
 [Cherrywood Coffeehouse, Austin, TX](https://cherrywoodcoffeehouse.com/) – Sunday, December 15, 2024, 2:00-4:00
 
 [Urban Table, College Station, TX](https://urbantabletx.com/) – Thursday, January 2, 2025, 6:30-8:30
