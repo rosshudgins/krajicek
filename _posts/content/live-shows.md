@@ -9,8 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, November 2, 2024, 1:00-4:00
-
 [Home Sweet Farm, Brenham, TX](https://www.homesweetfarmbrenham.com/) – Sunday, November 17, 2024, 1:30-4:30
 
 [Marfa Texas Kitchen, College Station, TX](https://marfatexaskitchen.com/) – Friday, November 22, 2024, 6:30-8:30 
@@ -26,6 +24,8 @@ UPCOMING SHOWS
 [Urban Table, College Station, TX](https://urbantabletx.com/) – Thursday, January 2, 2025, 6:30-8:30
 
 PAST SHOWS:
+
+[Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, November 2, 2024, 1:00-4:00
 
 [Urban Table, College Station, TX](https://urbantabletx.com/) – Thursday, October 24, 2024, 6:30-8:30
 
