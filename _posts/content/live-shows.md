@@ -9,6 +9,8 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
+[Home Sweet Farm, Brenham, TX](https://www.homesweetfarmbrenham.com/happenings) – Sunday, November 17, 2024, 1:30-4:30
+
 [Marfa Texas Kitchen, College Station, TX](https://marfatexaskitchen.com/) – Friday, November 22, 2024, 6:30-8:30 
 
 [Load Off Fanny's, Lockhart, TX](https://www.loadofffannys.com/) – Friday, December 13, 2024, 7:00-9:00
