@@ -15,8 +15,6 @@ UPCOMING SHOWS
 
 [New Braunfels Brewing Company, New Braunfels, TX](https://www.nbbrewtx.com/) – Saturday, December 14, 2024, 6:15-8:15
 
-[Cherrywood Coffeehouse, Austin, TX](https://cherrywoodcoffeehouse.com/) – Sunday, December 15, 2024, 5:00-7:00
-
 [Urban Table, College Station, TX](https://urbantabletx.com/) – Thursday, January 2, 2025, 6:30-8:30
 
 PAST SHOWS:
