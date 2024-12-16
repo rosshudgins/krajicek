@@ -9,15 +9,15 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
+[Urban Table, College Station, TX](https://urbantabletx.com/) – Thursday, January 2, 2025, 6:30-8:30
+
+PAST SHOWS:
+
 [Load Off Fanny's, Lockhart, TX](https://www.loadofffannys.com/) – Friday, December 13, 2024, 7:00-9:00
 
 [H﻿ondo's on Main, Fredericksburg, TX](https://www.hondosonmain.com/) – Saturday, December 14, 2024, 12:00-3:00
 
 [New Braunfels Brewing Company, New Braunfels, TX](https://www.nbbrewtx.com/) – Saturday, December 14, 2024, 6:15-8:15
-
-[Urban Table, College Station, TX](https://urbantabletx.com/) – Thursday, January 2, 2025, 6:30-8:30
-
-PAST SHOWS:
 
 [Home Sweet Farm, Brenham, TX](https://www.homesweetfarmbrenham.com/happenings) – Sunday, November 17, 2024, 1:30-4:30
 
