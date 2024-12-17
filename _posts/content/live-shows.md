@@ -11,6 +11,8 @@ UPCOMING SHOWS
 
 [Urban Table, College Station, TX](https://urbantabletx.com/) – Thursday, January 2, 2025, 6:30-8:30
 
+[Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, April 12, 025, 6:00-9:00
+
 PAST SHOWS:
 
 [Load Off Fanny's, Lockhart, TX](https://www.loadofffannys.com/) – Friday, December 13, 2024, 7:00-9:00
