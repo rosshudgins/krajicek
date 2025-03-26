@@ -9,7 +9,9 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, April 12, 025, 6:00-9:00
+[Marfa Texas Kitchen, College Station, TX](https://marfatexaskitchen.com/) – Wednesday, March 26, 2025, 6:30-8:00
+
+[Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, April 12, 2025, 6:00-9:00
 
 PAST SHOWS:
 
