@@ -9,7 +9,7 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-stay tuned... I'll be booking shows soon
+stay tuned... I'll be booking more shows soon
 
 PAST SHOWS:
 
