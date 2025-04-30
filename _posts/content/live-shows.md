@@ -11,6 +11,8 @@ UPCOMING SHOWS
 
 [Cobble & Spoke, Houston, TX](https://cobbleandspoke.com/)[](https://lonepint.com/) – Thursday, May 1, 2025, 6:00-7:30
 
+[Marfa Texas Kitchen, College Station, TX](https://marfatexaskitchen.com/) – Friday, May 23, 2025, 6:30-8:00
+
 PAST SHOWS:
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, April 12, 2025, 6:00-9:00
