@@ -13,6 +13,8 @@ UPCOMING SHOWS
 
 [Marfa Texas Kitchen, College Station, TX](https://marfatexaskitchen.com/) – Saturday, May 24, 2025, 6:30-8:00
 
+[Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) – Sunday, July 20, 2025, time tba
+
 PAST SHOWS:
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, April 12, 2025, 6:00-9:00
