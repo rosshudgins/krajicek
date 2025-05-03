@@ -9,13 +9,15 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[Cobble & Spoke, Houston, TX](https://cobbleandspoke.com/)[](https://lonepint.com/) – Thursday, May 1, 2025, 6:00-7:30
-
 [Marfa Texas Kitchen, College Station, TX](https://marfatexaskitchen.com/) – Saturday, May 24, 2025, 6:30-8:00
+
+[Urban Table, College Station, TX](https://urbantabletx.com/) – Thursday, May 29, 2025, 6:30-8:30
 
 [Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) – Sunday, July 20, 2025, time tba
 
 PAST SHOWS:
+
+[Cobble & Spoke, Houston, TX](https://cobbleandspoke.com/)[](https://lonepint.com/) – Thursday, May 1, 2025, 6:00-7:30
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, April 12, 2025, 6:00-9:00
 
