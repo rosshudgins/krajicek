@@ -15,6 +15,8 @@ UPCOMING SHOWS
 
 [Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) – Sunday, July 20, 2025, time tba
 
+[Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) – Wednesday, August 20, 2025, time tba
+
 PAST SHOWS:
 
 [Cobble & Spoke, Houston, TX](https://cobbleandspoke.com/)[](https://lonepint.com/) – Thursday, May 1, 2025, 6:00-7:30
