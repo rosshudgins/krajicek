@@ -13,6 +13,8 @@ UPCOMING SHOWS
 
 [Urban Table, College Station, TX](https://urbantabletx.com/) – Thursday, May 29, 2025, 6:30-8:30
 
+[Cobble & Spoke, Houston, TX](https://cobbleandspoke.com/)[](https://lonepint.com/) – Friday, June 13, 2025, 6:00-7:30
+
 [Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) – Sunday, July 20, 2025, time tba
 
 [Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) – Wednesday, August 20, 2025, time tba
