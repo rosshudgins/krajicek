@@ -9,8 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[Urban Table, College Station, TX](https://urbantabletx.com/) – Thursday, May 29, 2025, 6:30-8:30
-
 [Cobble & Spoke, Houston, TX](https://cobbleandspoke.com/)[](https://lonepint.com/) – Friday, June 13, 2025, 6:00-7:30
 
 [Home Sweet Farm, Brenham, TX](https://www.homesweetfarmbrenham.com/happenings) – Sunday, July 13, 2025, 1:30-4:30
@@ -20,6 +18,8 @@ UPCOMING SHOWS
 [Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) with Josh Stuckey & BJ Gamez – Wednesday, August 20, 2025, 6:00-8:00
 
 PAST SHOWS:
+
+[Urban Table, College Station, TX](https://urbantabletx.com/) – Thursday, May 29, 2025, 6:30-8:30
 
 [Cobble & Spoke, Houston, TX](https://cobbleandspoke.com/)[](https://lonepint.com/) – Thursday, May 1, 2025, 6:00-7:30
 
