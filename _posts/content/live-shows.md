@@ -9,8 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[The Owl, Bryan, TX](https://www.theowlbcs.com/) – Saturday, July 5, 2025, 7:00-9:00
-
 [Home Sweet Farm, Brenham, TX](https://www.homesweetfarmbrenham.com/happenings) – Sunday, July 13, 2025, 1:30-4:30
 
 [Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) with Matt Harlan & Jimmy Pizzitola – Sunday, July 20, 2025, 7:00-9:00
@@ -18,6 +16,8 @@ UPCOMING SHOWS
 [Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) with Josh Stuckey & BJ Gamez – Wednesday, August 20, 2025, 6:00-8:00
 
 PAST SHOWS:
+
+[The Owl, Bryan, TX](https://www.theowlbcs.com/) – Saturday, July 5, 2025, 7:00-9:00
 
 [Cobble & Spoke, Houston, TX](https://cobbleandspoke.com/)[](https://lonepint.com/) – Friday, June 13, 2025, 6:00-7:30
 
