@@ -15,6 +15,8 @@ UPCOMING SHOWS
 
 [Dr. Jeckyll's Beer Lab, Pantego, TX](https://www.facebook.com/drjeckyllsbeerlab/) (w/ Ed Rogers) – Tuesday, October 14, 2025, 6:00-8:00
 
+[Mike Kelly's Westsider](http://mikekellyswestsider.com/)[, KCMO](https://knuckleheadskc.com/) – Thursday, October 16, 2025, time TBA
+
 PAST SHOWS:
 
 [Home Sweet Farm, Brenham, TX](https://www.homesweetfarmbrenham.com/happenings) – Sunday, July 13, 2025, 1:30-4:30
