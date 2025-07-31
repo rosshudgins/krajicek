@@ -11,6 +11,8 @@ UPCOMING SHOWS
 
 [Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) with Josh Stuckey & BJ Gamez – Wednesday, August 20, 2025, 6:00-8:00
 
+[The Owl, Bryan, TX](https://www.theowlbcs.com/) – Thursday, September 25, 2025, 6:00-8:00
+
 [Home Sweet Farm, Brenham, TX](https://www.homesweetfarmbrenham.com/happenings) – Sunday, October 5, 2025, 1:30-4:30
 
 [Dr. Jeckyll's Beer Lab, Pantego, TX](https://www.facebook.com/drjeckyllsbeerlab/) (w/ Ed Rogers) – Tuesday, October 14, 2025, 6:00-8:00
