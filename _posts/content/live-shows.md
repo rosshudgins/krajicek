@@ -11,6 +11,8 @@ UPCOMING SHOWS
 
 [Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) with Josh Stuckey & BJ Gamez – Wednesday, August 20, 2025, 6:00-8:00
 
+[The Velveteen Lounge, Salida, CO](https://www.thevelveteensalida.com/) – Friday, August 29, 2025, 5:45-6:45
+
 [The Owl, Bryan, TX](https://www.theowlbcs.com/) – Thursday, September 25, 2025, 6:00-8:00
 
 [Home Sweet Farm, Brenham, TX](https://www.homesweetfarmbrenham.com/happenings) – Sunday, October 5, 2025, 1:30-4:30
