@@ -9,8 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) with Josh Stuckey & BJ Gamez – Wednesday, August 20, 2025, 6:00-8:00
-
 [The Velveteen Lounge, Salida, CO](https://www.thevelveteensalida.com/) – Friday, August 29, 2025, 5:45-6:45
 
 [The Owl, Bryan, TX](https://www.theowlbcs.com/) – Thursday, September 25, 2025, 6:00-8:00
@@ -22,6 +20,8 @@ UPCOMING SHOWS
 [Mike Kelly's Westsider](http://mikekellyswestsider.com/)[, KCMO](https://knuckleheadskc.com/) – Thursday, October 16, 2025, time TBA
 
 PAST SHOWS:
+
+[Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) with Josh Stuckey & BJ Gamez – Wednesday, August 20, 2025, 6:00-8:00
 
 [The Red Velvet Cocktail Lounge, Brenham, TX](https://www.facebook.com/profile.php?id=61572237247780) – Saturday, August 2, 2025, 8:30-11:00
 
