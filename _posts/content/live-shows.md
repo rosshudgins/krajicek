@@ -9,8 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[The Velveteen Lounge, Salida, CO](https://www.thevelveteensalida.com/) – Friday, August 29, 2025, 5:45-6:45
-
 [The Owl, Bryan, TX](https://www.theowlbcs.com/) – Thursday, September 25, 2025, 6:00-8:00
 
 [Home Sweet Farm, Brenham, TX](https://www.homesweetfarmbrenham.com/happenings) – Sunday, October 5, 2025, 1:30-4:30
@@ -20,6 +18,10 @@ UPCOMING SHOWS
 [Mike Kelly's Westsider](http://mikekellyswestsider.com/)[, KCMO](https://knuckleheadskc.com/) – Thursday, October 16, 2025, time TBA
 
 PAST SHOWS:
+
+[The Velveteen Lounge, Salida, CO](https://www.thevelveteensalida.com/) – Friday, August 29, 2025, 5:30-7:00
+
+[Benson's Tavern & Beer Garden, Salida, CO](https://www.facebook.com/Bensons-Tavern-Beer-Garden-71527323736/) – Thursday, August 28, 2025, 6:30-8:00
 
 [Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) with Josh Stuckey & BJ Gamez – Wednesday, August 20, 2025, 6:00-8:00
 
