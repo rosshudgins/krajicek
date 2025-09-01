@@ -17,6 +17,8 @@ UPCOMING SHOWS
 
 [Mike Kelly's Westsider](http://mikekellyswestsider.com/)[, KCMO](https://knuckleheadskc.com/) – Thursday, October 16, 2025, time TBA
 
+[Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) with Matt Harlan & Jimmy Pizzitola – Sunday, November 9, 2025, 7:00-9:00
+
 PAST SHOWS:
 
 [The Velveteen Lounge, Salida, CO](https://www.thevelveteensalida.com/) – Friday, August 29, 2025, 5:30-7:00
