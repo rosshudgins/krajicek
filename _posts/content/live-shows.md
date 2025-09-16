@@ -17,7 +17,7 @@ UPCOMING SHOWS
 
 [Mike Kelly's Westsider](http://mikekellyswestsider.com/)[, KCMO](https://knuckleheadskc.com/) – Thursday, October 16, 2025, 8:00
 
-[Cobble & Spoke, Houston, TX](https://cobbleandspoke.com/)[](https://lonepint.com/) – Tuesday, October 28, 2025, 6:30-8:00
+[Cobble & Spoke, Houston, TX](https://cobbleandspoke.com/)[](https://lonepint.com/) – Tuesday, October 28, 2025, 6:00-7:30
 
 [Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) with Matt Harlan & Jimmy Pizzitola – Sunday, November 9, 2025, 7:00-9:00
 
