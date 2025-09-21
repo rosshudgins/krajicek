@@ -21,6 +21,8 @@ UPCOMING SHOWS
 
 [Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) with Matt Harlan & Jimmy Pizzitola – Sunday, November 9, 2025, 7:00-9:00
 
+[The Owl, Bryan, TX](https://www.theowlbcs.com/) – Thursday, November 20, 2025, 6:00-8:00
+
 PAST SHOWS:
 
 [The Velveteen Lounge, Salida, CO](https://www.thevelveteensalida.com/) – Friday, August 29, 2025, 5:30-7:00
