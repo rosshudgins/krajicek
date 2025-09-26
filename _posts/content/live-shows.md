@@ -9,8 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[The Owl, Bryan, TX](https://www.theowlbcs.com/) – Thursday, September 25, 2025, 6:00-8:00
-
 [Home Sweet Farm, Brenham, TX](https://www.homesweetfarmbrenham.com/happenings) – Sunday, October 5, 2025, 1:30-4:30
 
 [Dr. Jeckyll's Beer Lab, Pantego, TX](https://www.facebook.com/drjeckyllsbeerlab/) (w/ Ed Rogers) – Tuesday, October 14, 2025, 6:00-8:00
@@ -24,6 +22,8 @@ UPCOMING SHOWS
 [The Owl, Bryan, TX](https://www.theowlbcs.com/) – Thursday, November 20, 2025, 6:00-8:00
 
 PAST SHOWS:
+
+[The Owl, Bryan, TX](https://www.theowlbcs.com/) – Thursday, September 25, 2025, 6:00-8:00
 
 [The Velveteen Lounge, Salida, CO](https://www.thevelveteensalida.com/) – Friday, August 29, 2025, 5:30-7:00
 
