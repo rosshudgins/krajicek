@@ -21,6 +21,8 @@ UPCOMING SHOWS
 
 [The Owl, Bryan, TX](https://www.theowlbcs.com/) – Thursday, November 20, 2025, 6:00-8:00
 
+[RX Pizza, College Station, TX](https://rxpizza.com/) – Sunday, December 7, 2025, 5:00-7:00
+
 PAST SHOWS:
 
 [The Owl, Bryan, TX](https://www.theowlbcs.com/) – Thursday, September 25, 2025, 6:00-8:00
