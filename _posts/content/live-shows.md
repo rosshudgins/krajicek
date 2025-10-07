@@ -9,8 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[Home Sweet Farm, Brenham, TX](https://www.homesweetfarmbrenham.com/happenings) – Sunday, October 5, 2025, 1:30-4:30
-
 [Dr. Jeckyll's Beer Lab, Pantego, TX](https://www.facebook.com/drjeckyllsbeerlab/) (w/ Ed Rogers) – Tuesday, October 14, 2025, 6:00-8:00
 
 [Mike Kelly's Westsider](http://mikekellyswestsider.com/)[, KCMO](https://knuckleheadskc.com/) – Thursday, October 16, 2025, 8:00
@@ -24,6 +22,8 @@ UPCOMING SHOWS
 [RX Pizza & Bar, College Station, TX](https://rxpizza.com/) – Sunday, December 7, 2025, 5:00-7:00
 
 PAST SHOWS:
+
+[Home Sweet Farm, Brenham, TX](https://www.homesweetfarmbrenham.com/happenings) – Sunday, October 5, 2025, 1:30-4:30
 
 [The Owl, Bryan, TX](https://www.theowlbcs.com/) – Thursday, September 25, 2025, 6:00-8:00
 
