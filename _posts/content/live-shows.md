@@ -11,6 +11,8 @@ UPCOMING SHOWS
 
 [Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) with Matt Harlan & Jimmy Pizzitola – Sunday, November 9, 2025, 7:00-9:00
 
+[Marfa Texas Kitchen, College Station, TX](https://marfatexaskitchen.com/) – Thursday, November 13, 2025, 6:00-7:30
+
 [The Owl, Bryan, TX](https://www.theowlbcs.com/) – Thursday, November 20, 2025, 6:00-8:00
 
 [RX Pizza & Bar, College Station, TX](https://rxpizza.com/) – Sunday, December 7, 2025, 5:00-7:00
