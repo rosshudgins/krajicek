@@ -17,6 +17,12 @@ UPCOMING SHOWS
 
 [RX Pizza & Bar, College Station, TX](https://rxpizza.com/) – Sunday, December 7, 2025, 5:00-7:00
 
+[Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, January 17, 2026, 1:00-4:00
+
+[Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, March 21, 2026, 1:00-4:00
+
+[Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, April 25, 2026, 6:00-9:00
+
 PAST SHOWS:
 
 [Cobble & Spoke, Houston, TX](https://cobbleandspoke.com/)[](https://lonepint.com/) – Tuesday, October 28, 2025, 6:00-7:30
