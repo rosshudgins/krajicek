@@ -23,6 +23,8 @@ UPCOMING SHOWS
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, April 25, 2026, 6:00-9:00
 
+[Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, September 19, 2026, 6:00-9:00
+
 PAST SHOWS:
 
 [Cobble & Spoke, Houston, TX](https://cobbleandspoke.com/)[](https://lonepint.com/) – Tuesday, October 28, 2025, 6:00-7:30
