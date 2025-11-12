@@ -9,8 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) with Matt Harlan & Jimmy Pizzitola – Sunday, November 9, 2025, 7:00-9:00
-
 [Marfa Texas Kitchen, College Station, TX](https://marfatexaskitchen.com/) – Thursday, November 13, 2025, 6:30-8:00
 
 [The Owl, Bryan, TX](https://www.theowlbcs.com/) – Thursday, November 20, 2025, 6:00-8:00
@@ -26,6 +24,8 @@ UPCOMING SHOWS
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, September 19, 2026, 6:00-9:00
 
 PAST SHOWS:
+
+[Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) with Matt Harlan & Jimmy Pizzitola – Sunday, November 9, 2025, 7:00-9:00
 
 [Cobble & Spoke, Houston, TX](https://cobbleandspoke.com/)[](https://lonepint.com/) – Tuesday, October 28, 2025, 6:00-7:30
 
