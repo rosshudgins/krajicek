@@ -5,7 +5,7 @@ date: 2021-07-24T22:46:32.154Z
 ---
 # Performances
 
-![](../../images/uploads/img_0937.jpg)
+![](../../images/uploads/mike-kellys.jpg)
 
 UPCOMING SHOWS
 
