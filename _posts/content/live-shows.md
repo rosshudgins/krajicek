@@ -13,8 +13,6 @@ UPCOMING SHOWS
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, January 17, 2026, 1:00-4:00
 
-[Cherrywood Coffeehouse, Austin, TX](https://cherrywoodcoffeehouse.com/) – Saturday, January 24, 2026, 5:00-7:00
-
 [Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) – Sunday, February 8, 2026, 7:00-9:00
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, March 21, 2026, 1:00-4:00
