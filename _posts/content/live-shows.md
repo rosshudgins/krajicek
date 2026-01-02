@@ -5,7 +5,7 @@ date: 2021-07-24T22:46:32.154Z
 ---
 # Performances
 
-![](../../images/uploads/mike-kellys.jpg)
+![](../../images/uploads/buckets-of-rain-freeze-frame.jpg)
 
 UPCOMING SHOWS
 
