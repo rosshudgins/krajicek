@@ -5,7 +5,7 @@ date: 2021-07-16T01:07:14.162Z
 ---
 # Music
 
-![](../../images/uploads/312500507_1200260073927884_5761126329410647692_n.jpg)
+![](../../images/uploads/untitled-design.jpg)
 
 ## Borderline Social Club
 
