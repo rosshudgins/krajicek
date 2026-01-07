@@ -9,6 +9,8 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
+[The Owl, Bryan, TX](https://www.theowlbcs.com/) – Friday, January 16, 2026, 6:30-8:30
+
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, January 17, 2026, 1:00-4:00
 
 [Home Sweet Farm, Brenham, TX](https://www.homesweetfarmbrenham.com/happenings) – Sunday, March 1, 2026, 2:00-5:00
