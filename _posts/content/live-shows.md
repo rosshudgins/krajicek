@@ -23,6 +23,8 @@ UPCOMING SHOWS
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, April 25, 2026, 6:00-9:00
 
+[Cavalry Court, College Station, TX](https://www.cavalrycourt.com/live-music-events.aspx) (w/ Ben Morris) – Friday, June 19, 2026
+
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, September 19, 2026, 6:00-9:00
 
 PAST SHOWS:
