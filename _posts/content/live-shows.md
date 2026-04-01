@@ -9,8 +9,6 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) with Graham Weber & Charles Bryant – Sunday, March 29, 2026, 7:00-9:00
-
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, April 25, 2026, 6:00-9:00
 
 [Cavalry Court, College Station, TX](https://www.cavalrycourt.com/live-music-events.aspx) (w/ Ben Morris) – Friday, June 19, 2026
