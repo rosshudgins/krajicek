@@ -9,13 +9,13 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, April 25, 2026, 6:00-9:00
-
-[Cavalry Court, College Station, TX](https://www.cavalrycourt.com/live-music-events.aspx) (w/ Ben Morris) – Friday, June 19, 2026
+John is temporarily on gig hiatus
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, September 19, 2026, 6:00-9:00
 
 PAST SHOWS:
+
+[Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, April 25, 2026, 6:00-9:00
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, March 21, 2026, 1:00-4:00
 
