@@ -9,6 +9,8 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
+[Cobble & Spoke, Houston, TX](https://cobbleandspoke.com/)[](https://lonepint.com/) – Thursday, August 13, 2026, 6:00-8:00
+
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) with Matt Harlan, Jimmy Pizzitola, and Mark Seale – Saturday, September 19, 2026, 6:00-9:00
 
 PAST SHOWS:
