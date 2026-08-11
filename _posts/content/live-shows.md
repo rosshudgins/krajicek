@@ -13,6 +13,8 @@ UPCOMING SHOWS
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) with Matt Harlan, Jimmy Pizzitola, and Mark Seale – Saturday, September 19, 2026, 6:00-9:00
 
+[The Owl, Bryan, TX](https://www.theowlbcs.com/) – Wednesday, November 18, 2026, 7:00-10:00
+
 PAST SHOWS:
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) – Saturday, April 25, 2026, 6:00-9:00
