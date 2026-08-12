@@ -11,9 +11,13 @@ UPCOMING SHOWS
 
 [Cobble & Spoke, Houston, TX](https://cobbleandspoke.com/)[](https://lonepint.com/) with Mark Seale – Thursday, August 13, 2026, 6:00-8:00
 
+House Concert, Fort Worth, TX with Ed Rogers and Chris Curtis – Tuesday, September 2, 2026, time tba
+
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) with Matt Harlan, Jimmy Pizzitola, and Mark Seale – Saturday, September 19, 2026, 6:00-9:00
 
 [The Owl, Bryan, TX](https://www.theowlbcs.com/) – Wednesday, November 18, 2026, 7:00-10:00
+
+[Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) – Sunday, December 13, 2026, 7:00-9:00
 
 PAST SHOWS:
 
