@@ -13,6 +13,8 @@ UPCOMING SHOWS
 
 [Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) with Matt Harlan, Jimmy Pizzitola, and Mark Seale – Saturday, September 19, 2026, 6:00-9:00
 
+[RX Pizza & Bar, College Station, TX](https://rxpizza.com/) with Kyle Littlefield & Ken Appelt – Sunday, September 27, 2026, 5:00-7:00
+
 [The Owl, Bryan, TX](https://www.theowlbcs.com/) – Wednesday, November 18, 2026, 7:00-10:00
 
 [Cowboy Surfer, Houston, TX](https://cowboysurferbar.com/) – Sunday, December 13, 2026, 7:00-9:00
