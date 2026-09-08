@@ -5,7 +5,7 @@ date: 2023-03-20T13:15:26.695Z
 ---
 # About
 
-![](../../images/uploads/350255541_637798387927837_1087468428627394646_n-copy.jpg)
+![](../../images/uploads/me-at-spicer.jpg)
 
 J﻿ohn Krajicek is a singer-songwriter, poet, visual artist, and host of the YouTube podcast "Time to Connect." B﻿orn in Leavenworth, Kansas, John was enchanted by Bob Dylan and The Beatles in his youth. College years in Denton, TX. Obsessively writes poems and songs. Loves to play live and connect with audiences.
 
