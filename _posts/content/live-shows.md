@@ -9,7 +9,7 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[The Kimbell Cultural Arts Center, Bryan, TX](https://www.thekimbell.com/) – Thursday, October 15, 2026, 6:00-8:00
+[The Kimbell Cultural Arts Center, Bryan, TX](https://www.thekimbell.com/) – Thursday, October 15, 2026, 5:30-7:30
 
 [The Owl, Bryan, TX](https://www.theowlbcs.com/) – Wednesday, November 18, 2026, 7:00-10:00
 
@@ -17,9 +17,9 @@ UPCOMING SHOWS
 
 PAST SHOWS:
 
-[Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) with Matt Harlan, Jimmy Pizzitola, and Mark Seale – Saturday, September 19, 2026, 6:00-9:00
-
 [RX Pizza & Bar, College Station, TX](https://rxpizza.com/) with Kyle Littlefield & Ken Appelt – Sunday, September 27, 2026, 5:00-7:00
+
+[Lone Pint Brewery, Magnolia, TX](https://lonepint.com/) with Matt Harlan, Jimmy Pizzitola, and Mark Seale – Saturday, September 19, 2026, 6:00-9:00
 
 [Spicer House Concert, Fort Worth, TX](https://www.facebook.com/profile.php?id=61584615364748) with Ed Rogers and Chris Curtis – Tuesday, September 2, 2026, door 6:00, music 7:00 
 
