@@ -9,13 +9,13 @@ date: 2021-07-24T22:46:32.154Z
 
 UPCOMING SHOWS
 
-[The Kimbell Cultural Arts Center, Bryan, TX](https://www.thekimbell.com/) – Thursday, October 15, 2026, 5:30-7:30
-
 [The Owl, Bryan, TX](https://www.theowlbcs.com/) – Wednesday, November 18, 2026, 7:00-10:00
 
 [Cobble & Spoke, Houston, TX](https://cobbleandspoke.com/)[](https://lonepint.com/) – Friday, November 20, 2026, 6:00-8:00
 
 PAST SHOWS:
+
+[The Kimbell Cultural Arts Center, Bryan, TX](https://www.thekimbell.com/) – Thursday, October 15, 2026, 5:30-7:30
 
 [RX Pizza & Bar, College Station, TX](https://rxpizza.com/) with Kyle Littlefield & Ken Appelt – Sunday, September 27, 2026, 5:00-7:00
 
